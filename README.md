@@ -19,7 +19,7 @@ The Appsterdam API publishes 3 main JSON files.
 
 |JSON Filename|Description|Refresh times*|Status|
 |---|---|---|---|
-|[app.json](app.json)<br/>|[app.min.json](app..minjson)|Contains information for the 'home' tab and our volunteers|Static|Active|
+|[app.json](app.json)<br/>[app.min.json](app.min.json)|Contains information for the 'home' tab and our volunteers|Static|Active|
 Database|Contains all our events|08:00/20:00|Active/Private|
 |[events.json](events.json)<br/>[events.min.json](events.min.json)|Contains all our events|08:05/20:05|Active|
 |[jobs.json](jobs.json)<br/>[jobs.min.json](jobs.min.json)|Contains jobs from `The House Of Appril` and `Egeniq`|08:10/20:10|Active|
