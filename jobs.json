@@ -99,6 +99,44 @@
         "JobCity": "Utrecht"
     },
     {
+        "JobId": "MIG00341",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-288747-31.html",
+        "JobTitle": "Flutter Developer",
+        "JobShortDescription": "We are looking for a Flutter Developer with 2 years experience\r\nYou will work in an  awesome team, located in Rotterdam",
+        "JobDescription": "We are looking for a Flutter Developer with 2 or 3 years experience\r\nYou will work in a small supportive team, located in Rotterdam\r\nAs a Flutter Developer you love to work on great apps\r\nApps with interesting new features that help companies provide their service in new and innovative ways\r\n",
+        "JobCriteria": "    \r\n&bull;    You have at least 2 to 3 years of experience building Flutter apps in a professional setting\r\n\r\n\r\n&bull;    You have a bachelor&#39;s degree in Technology \/ IT engineering or a master&#39;s degree\r\n\r\n\r\n&bull;    Sharing knowledge is important to you and guiding a junior is no problem for you\r\n\r\n\r\n&bull;    If you have some experience in building native apps (Android or iOS) that would be great!\r\n",
+        "JobSalaryBenefits": "\r\n\r\n&bull; Permanent contract\r\n\r\n\r\n&bull; Salary in line with the market\r\n\r\n\r\n&bull; Travel allowance\r\n\r\n&bull; Pension plan\r\n\r\n&bull; Personal development plan\r\n\r\n\r\n&bull; At the moment we work remotely and 2 days a week in the office\r\n\r\n\r\nFor any questions please contact us, Jacqueline or Maike, email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe love to help you with a new job\r\n\r\n",
+        "JobStartDate": "2022-06-16 17:45:56",
+        "JobPublishStartDate": "2022-06-16",
+        "JobPublishEndDate": "2022-08-10",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Rotterdam",
+            "JobLocationState": "NL_South_Holland",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<div class=\"muted c-detail-box-item\" ng-bind-html=\"vacancy[field].text\" ng-hide=\"editMode || !vacancy[field].text\"><p>You will work with a small team where they support and&nbsp; helping each other. The culture is informal and helping each-other is a key element in the success of the team. However, there will also be space for self-development. This way you can strengthen the team, and at the same develop your own skills as well.<\/p><p><strong>Note:<\/strong> The agencies we work with are looking for app builders with a Dutch work permit &aacute;nd living in The Netherlands.&nbsp;<\/p><\/div>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/288747\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YqtQNFN3N3nT09f0\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YqtQNFN3N3nT09f0\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Rotterdam"
+    },
+    {
         "JobId": "MIW00340",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-android-engineer-287853-31.html",
         "JobTitle": "Senior Android Engineer",
