@@ -2075,44 +2075,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobId": "MIG00231",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-android-developer-269755-31.html",
-        "JobTitle": "Android Developer ",
-        "JobShortDescription": "In a smaller company there is more room for your idea&#39;s\r\nYou can choose new cutting edge technologies, lead the team and talk to the clients\r\nThis role you never get at Booking\r\ncom of Uber ;)",
-        "JobDescription": "\r\nWe are looking for a senior android developer who love&#39;s technology and never stops evolving and developing\r\nThat is continuous learning is crucial, especially for app developers\r\nYour immediate goal is to immerse yourself in the world of app developing and learn as much as possible\r\nSpecialised, or multifunctional like a swiss army-knive\r\nFor our client we are looking for somebody with exactly this &ldquo;always be learning&rdquo; mindset\r\nYou posses decent knowledge on Kotlin but are looking to grow even further\r\nYou are going to take the lead of our team, work on interesting apps, together with a team of skilled professionals\r\nTalk to he clients and choose the next step\r\n\r\n",
-        "JobCriteria": "\r\nIn order to be successful in this role, you will at least need the following:\r\n\r\n\r\n- Experience in iOS App development (iOS SDK, Studio, Swift)\r\n- Experience with RESTful APIs\r\n- Passion for the development profession &amp; high degree of curiosity\r\n- Good in a team environment\r\n- Experience with Continuous integration unit tests\r\n- App architecture ( MVP or MVVM, MVVI)\r\n- Tools such as Git\r\n\r\nJob- Requirements \r\n\r\nIn order to be successful in this role, you will at least need the following:\r\n\r\n\r\nExperience in iOS App development (iOS SDK, Studio, Swift)\r\nExperience with RESTful APIs\r\nPassion for the development profession &amp; high degree of curiosity\r\nGood in a team environment\r\nExperience with Continuous integration unit tests\r\nApp architecture ( MVP or MVVM, MVVI)\r\nTools such as Git\u2028\u2028\r\n\r\nThe agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n\r\n",
-        "JobSalaryBenefits": "You will receive a market conform salary with a a permanent contract\r\nMore info about the salary, give a call to the team of The House of Appril\r\n",
-        "JobStartDate": "2022-03-22 15:00:54",
-        "JobPublishStartDate": "2022-03-22",
-        "JobPublishEndDate": "2022-06-15",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "The company who is looking for a android developer has a small team. They make their own apps for on of the biggest supermarkets within NL. They have their own backend developer and 4 other (native) developers. They work from home and two day&#39;s a week at the office. You can start in your own time somewhere before 10:00. There is lot&#39;s of freedom, responsibility and room to take the lead. The company is located 15 minutes from Amsterdam.&nbsp;",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/269755\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YjnWltD53NW4aq7P\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YjnWltD53NW4aq7P\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam"
-    },
-    {
         "JobId": "MIG00230",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-android-developer-269735-31.html",
         "JobTitle": "Android Developer",
