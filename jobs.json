@@ -1,16 +1,5 @@
 [
     {
-        "JobUrl": "https:\/\/appdevcon.nl\/job\/ios-developer-at-egeniq\/",
-        "JobTitle": "ios developer at egeniq",
-        "JobShortDescription": "ios developer at egeniq...",
-        "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
-        "JobCriteria": "",
-        "JobPublishStartDate": "2022-03-25",
-        "JobPublishEndDate": "2022-03-25",
-        "JobProvider": "Egeniq",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobUrl": "https:\/\/appdevcon.nl\/job\/android-developer-at-egeniq\/",
         "JobTitle": "android developer at egeniq",
         "JobShortDescription": "android developer at egeniq...",
@@ -95,6 +84,17 @@
         "JobCriteria": "",
         "JobPublishStartDate": "2022-06-14",
         "JobPublishEndDate": "2022-06-14",
+        "JobProvider": "Egeniq",
+        "JobCity": "Utrecht"
+    },
+    {
+        "JobUrl": "https:\/\/appdevcon.nl\/job\/ios-developer-at-egeniq\/",
+        "JobTitle": "ios developer at egeniq",
+        "JobShortDescription": "ios developer at egeniq...",
+        "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
+        "JobCriteria": "",
+        "JobPublishStartDate": "2022-06-17",
+        "JobPublishEndDate": "2022-06-17",
         "JobProvider": "Egeniq",
         "JobCity": "Utrecht"
     },
