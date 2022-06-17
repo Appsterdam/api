@@ -1961,44 +1961,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobId": "MIW00254",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-swiftui-developer-273268-31.html",
-        "JobTitle": "iOS \/ SwiftUI Developer",
-        "JobShortDescription": "Are you an iOS Developer and SwiftUI wizard? Within a big company you will be part of a &#39;start-up&#39; where ownership and passion is required\r\n",
-        "JobDescription": "\r\nYou will help with an exiting app to create new features\r\nWe love to have your input and expertise\r\nYou will be part of a small team, the &#39;start-up&#39; within a big company where they experiment and are open to new ideas!\r\nAre you also able to give some UX\/UI suggestion? Awesome!\r\nIn the AppStore we only have 5 star reviews and love to continue this\r\nWe would like you to be proud of what you are creating and feel ownership of the app\r\n\r\n\r\n\r\n",
-        "JobCriteria": "\r\nWe are looking for an iOS, SwiftUI developer to join the mobility team\r\n\r\n\r\n\r\n- Demonstrable knowledge of Swift\r\n- Experience with SwiftUI\r\n- Familiar with MVVM pattern\r\n- Fluent in English\r\n- You love to solve problems\r\n- You are taking iniatives\r\n\r\n**Note:** The agencies we work with are looking for app builders with a Dutch work permit and live in The Netherlands\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- You will be part of a fast growing &#39;start-up&#39; within a big company\r\n- A multinational team to support you\r\n- Competitive salary, pension and travel costs\r\n- Freedom in planning your work\r\n- Informal culture\r\n- Working from home, but we love to see u two time a week if possible\r\n\r\nFor questions about this or the other vacancies, please contact us, Jacqueline or Maike email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe love to help you with a new job\r\n\r\n",
-        "JobStartDate": "2022-04-11 09:33:43",
-        "JobPublishStartDate": "2022-04-11",
-        "JobPublishEndDate": "2022-06-16",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": "NL_Utrecht",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "A well known Dutch company who creates apps with more than 600.000 user activity. They are globally very active in different markets.",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/273268\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YlPZ16yaR6t3jzny\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YlPZ16yaR6t3jzny\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobId": "MIG00252",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-273032-31.html",
         "JobTitle": "iOS Developer",
