@@ -1885,44 +1885,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobId": "MIW00271",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-medior-ios-developer-for-a-start-up-275747-31.html",
-        "JobTitle": "Medior iOS Developer for a Start-Up",
-        "JobShortDescription": "Working for a Start-Up as an iOS Developer, instead of a big corporation? This is your change!\r\nLet&#39;s meet!\r\n",
-        "JobDescription": "\r\nAs a Medior iOS Developer you will work for a Start-Up, from home and in the Utrecht office\r\nYou are familiar with Firebase and able to work independent\r\nThere are other iOS developers if you have questions\r\nThis is a special client because they are open to different constructions\r\nFor one of their cool successful apps they are looking for additional reinforcement you will work on\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- You have been developing in Swift for at least 2+ years\r\n- You are familiar with Firebase\r\n- You are a self-starter, analytical and love solving problems\r\n\r\n**NOTE**: The agencies we are working with are looking for app builders who have a Dutch work permit &aacute;nd live in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- This vacancy is for a permanent contract or freelance\r\n- Depending on your experiences, you can receive shares, these build up to 4,9% in 3 years\r\n\r\nIf you would like to know more about this vacancy and meet our client, please contact Maike or Jacqueline, e-mail: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe would love to help you find a new job\r\n\r\n\r\n",
-        "JobStartDate": "2022-04-28 10:13:06",
-        "JobPublishStartDate": "2022-04-28",
-        "JobPublishEndDate": "2022-06-21",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": "NL_Utrecht",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "<p>With a team of programmers, designers and strategists they build iOS Apps for customers and they also have their own products in the Appstore. It is a young club, where there is space for growth. Are you a self-starter, do you have new ideas and can you move fast? Let&#39;s meet!<\/p>",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/275747\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YmpMkoL0IfJ0pF0W\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YmpMkoL0IfJ0pF0W\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobId": "MIW00267",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-274987-31.html",
         "JobTitle": "iOS Developer",
