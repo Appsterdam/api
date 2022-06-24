@@ -137,6 +137,44 @@
         "JobCity": "Amsterdam"
     },
     {
+        "JobId": "MIW00347",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-ios-developer-289086-31.html",
+        "JobTitle": "Senior iOS Developer ",
+        "JobShortDescription": "Senior iOS Developer, are you looking around to see what else might be a great fit? Let&#39;s have a chat!\r\n",
+        "JobDescription": "In this role you&rsquo;ll work as Senior iOS Developer for a fast growing Dutch Mobile company\r\nTogether with your team you&rsquo;ll work on a variety of innovative apps\r\nYou will write, maintain, develop, add new features to existing mobile applications\r\nYou will also review code\r\nWhy us \r\n\r\n\r\nprobably you have used one of their apps without knowing it \r\n\r\n\r\n",
+        "JobCriteria": "\r\n\r\n- You have 4+ years experience with iOS Development\r\n- You have experience with Objective-C, Swift &amp; SwiftUI\r\n- You are familiar with Gitflow\r\n- You are familiar with code review\r\n- You have a bachelors degree in IT or related study\r\n- You are passionate and eager to learn\r\n- You are thinking in solutions\r\n- You are communicative, enthousiastic\r\n- You visit conferences and read about the latest technologies\r\n- You are able to support Junior &amp; Medior Android developers and are open for feedback yourself\r\n- You have a Dutch visa and live in The Netherlands\r\n\r\n\r\n\r\n\r\n",
+        "JobSalaryBenefits": "\r\n\r\n- Salary between &euro;4100\r\n- &euro;5800\r\n- Travel allowance\r\n- Paid holidays 26 days\r\n- Organizing hackatons\r\n- Flexible working hours\r\n- Pension plan\r\n- Exciting projects to work on\r\n- Friday afternoon &#39;borreltje&#39;\r\n- Opportunities for personal development, and yess, it does not have to be work related :-)\r\n- Latest hardware to work with\r\n\r\nFor questions about this or the other vacancies, or want to know more what we do, please contact us, Jacqueline or Maike, email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\n\r\n\r\n\r\n",
+        "JobStartDate": "2022-06-20 13:30:54",
+        "JobPublishStartDate": "2022-06-24",
+        "JobPublishEndDate": "2022-08-31",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Amsterdam",
+            "JobLocationState": "NL_North_Holland",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<p>We are The House of Appril &ndash; an agency&nbsp;based in Amsterdam for experienced app developers. We are here to inspire, guide and to help you find your next job or temporary assignment. We do this by helping you with our events (Appdevcon, appril festival), network and our guidance.<\/p><p>Our client is a fast growing Dutch company in Amsterdam. Their team is devoted and passionate about building high quality Mobile Applications. They build mobile apps for advertisement agencies, start-ups, well known brands and publishers.<\/p>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/289086\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YrBablloFCcesDzg\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YrBablloFCcesDzg\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Amsterdam"
+    },
+    {
         "JobId": "MIW00346",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-android-developer-in-amsterdam-289066-31.html",
         "JobTitle": "Senior Android Developer in Amsterdam",
