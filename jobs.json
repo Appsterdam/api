@@ -99,6 +99,44 @@
         "JobCity": "Utrecht"
     },
     {
+        "JobId": "MIW00349",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-experienced-ios-developer-292063-31.html",
+        "JobTitle": "Experienced iOS Developer ",
+        "JobShortDescription": "Do you want to grow as an iOS Developer and learn from the best developers in a large international company? Let&#39;s have a chat\r\n",
+        "JobDescription": "In this role you&rsquo;ll work as an experienced iOS Developer at an international company who takes it to the next level\r\nTogether with your team of specialists you&rsquo;ll get the chance to work on a variety of innovative apps\r\nYou will work with supportive colleagues that are keen on exchanges ideas, but you will also get enough freedom to do your work according to your own insights\r\nYou are a teamplayer with good communication skills in Dutch and English, self-starter, willing to use new technologies\r\nYou have 3+ years of professional software development for iOS and experience working on long-running products\r\n\r\n",
+        "JobCriteria": "\r\n\r\n- 3+ years iOS experience in a company\r\n- Experience with RESTful APIs\r\n- Teamplayer\r\n- You are communicative in Dutch and English (verbally and in writing)\r\n- You have experience with continuous integration unit tests\r\n- You are familiar with App architecture ( MVP or MVVM, MVVI)\r\n- You are familiar with tools such as Git\u2028\u2028\r\n- You have a Dutch working permit\r\n- You are familiar with native functionalities such as in-app purchases, bluetooth\r\n\r\n\r\n",
+        "JobSalaryBenefits": "\r\n\r\n- You will receive a market conform salary with a a permanent contract\r\n- There will be hackatons\r\n- Travel allowance\r\n- Space for personal growth\r\n\r\n\r\nFor questions about this vacancy, or do you want to know more about who we are, please contact us, Maike or Jacqueline, email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\n\r\n",
+        "JobStartDate": "2022-06-27 11:45:01",
+        "JobPublishStartDate": "2022-06-27",
+        "JobPublishEndDate": "2022-09-21",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Amsterdam",
+            "JobLocationState": "NL_North_Holland",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<p>We are The House of Appril &ndash; an agency&nbsp;based in Amsterdam for experienced app developers. We are here to inspire, guide and to help you find your next job or temporary assignment. We do this by helping you with our events (Appdevcon, appril festival), network and our guidance.<\/p><p>The company you will be working for is a Full Service Agency for international brands. This company has several locations throughout Europe and the Amsterdam office is where the iOS Development Team is located.&nbsp; They have an in-house team that develops and manages the webshop-app of the company. The process and hierarchy is defined in internal documents, but colleagues are still very supportive and open to new ideas: a happy end user is always the goal. Even though it is a big company, the team is quite informal and always supportive.<\/p>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/292063\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Yrl8Ha76YYxwO8YL\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Yrl8Ha76YYxwO8YL\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Amsterdam"
+    },
+    {
         "JobId": "MIW00348",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-experienced-flutter-developer-in-amsterdam-289106-31.html",
         "JobTitle": "Experienced Flutter Developer in Amsterdam",
