@@ -1961,44 +1961,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobId": "MIW00267",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-274987-31.html",
-        "JobTitle": "iOS Developer",
-        "JobShortDescription": "iOS developer, would you like to work on an iOS app with more than 600\r\n000 active users?  Let&#39;s have a chat!\r\n",
-        "JobDescription": "\r\nAs an iOS developer you will participate in all aspects of the iOS app lifecycle\r\nYou will be part of a supportive team that develops mobile applications while enhancing and supporting existing applications with more than 600\r\n000 active users!\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- You are proficient in Swift\r\n- You are able to work in a team and independently\r\n- You are familiar with continuous integration\r\n- You understand Apple&rsquo;s design principles and interface guidelines\r\n- You are familiar with APIs and push notifications\r\n- You are fluent in English\r\n- You love to solve problems\r\n- You are taking iniatives\r\n\r\n**Note: **Only for developers who live in EU and have a visum to work within the EU!\r\nUnfortunately, our clients do not work with people on only a remote basis\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- Competitive salary\r\n\r\n- Pension plan\r\n- Working in an international team\r\n- Informal culture\r\n- Work with latest devices\r\n- Lots of freedom about how you plan your work\r\n- 36\r\n- 40 hour work week, all options are negotiable\r\n- Working from home and love to see you two times in the office in Utrecht or Amsterdam\r\n\r\nDo you want to know more about this position, do you have any questions or are you looking for some career advice, do not hesitate to drop us a mail\r\nSend an email to Jacqueline or Maike, email: info@thehouseofappril\r\ncom or call Jacqueline: 020-2157446\r\n",
-        "JobStartDate": "2022-04-22 10:27:01",
-        "JobPublishStartDate": "2022-04-22",
-        "JobPublishEndDate": "2022-06-29",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": [],
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "This client develops and designs products of the highest quality. They build and create a &ldquo;first-class&rdquo; B2C apps. The whole process of Software development, continuous integration &amp; deployment, test and release management.&nbsp;The team consists of 40 people, they have in-house business developers, designers, testers, backend, front end and app developers. The team has 6 native developers.",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/274987\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YmJm1eu8CAnd9usq\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YmJm1eu8CAnd9usq\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobId": "MIG00266",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-274892-31.html",
         "JobTitle": " iOS Developer",
