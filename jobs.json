@@ -1429,44 +1429,6 @@
         "JobCity": "Amsterdam "
     },
     {
-        "JobId": "MIW00292",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-277605-31.html",
-        "JobTitle": "Flutter Developer",
-        "JobShortDescription": "Looking for a Flutter Developer for joining an international team where people laugh together and create great Flutter apps for clients\r\n",
-        "JobDescription": "In your team with engineers you will develop and improve Flutter apps\r\nYou will write clean code, know the entire lifecycle and you are able to do code review\r\nYou are detailed oriented, innovative and like to collaborate and laugh\r\n",
-        "JobCriteria": "\r\n\r\n- Degree in Computer Science or related field\r\n- You have 3+ years experience in iOS or Android Development\r\n- You have build Android\/Flutter apps\r\n- Strong knowledge of design patterns\r\n- Experience with Gitflow\r\n- Experience with reactive and functional programming\r\n- Experience with plugins\r\n- Experience with the latest development\r\n- You are passionate and proud of your code\r\n- You are open for feedback and able to give feedback\r\n\r\n**Note: **Only for developers who live in The Netherlands and have a visum to work within the EU!\r\nUnfortunately, our clients do not work with people on only a remote basis\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- Competitive salary\r\n- &euro;3000\r\n- &euro;5900 p\r\nm\r\n\r\n- Pension plan\r\n- Working in an international team\r\n- Inclusive, informal culture\r\n- Working with the latest devices\r\n- Friday afternoon drinks\r\n- Monthly hackatons\r\n- 26 vacation days\r\n- 36\r\n- 40 hour work week\r\n- Working hybrid\r\n\r\nDo you have any questions about this position, or are you looking for some career advice, drop us a mail\r\nSend an email to Jacqueline or Maike; info@thehouseofappril\r\ncom or call Jacqueline: 020-2157446\r\n",
-        "JobStartDate": "2022-05-09 11:18:06",
-        "JobPublishStartDate": "2022-05-09",
-        "JobPublishEndDate": "2022-06-30",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "International team of professionals with all the same goal; develop cool, innovative, first-class apps that make users happy. It is a fast growing company with a start-up feeling.&nbsp; People who work here laugh together a lot and feel like they can ask for help.",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/277605\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YnjcTkoDtEZJ22w4\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YnjcTkoDtEZJ22w4\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam"
-    },
-    {
         "JobId": "MIW00291",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-277594-31.html",
         "JobTitle": "Developer",
