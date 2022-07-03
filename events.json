@@ -152,7 +152,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "5",
+                "attendees": "6",
                 "latitude": "52.367077",
                 "longitude": "4.871191"
             },
@@ -183,7 +183,12 @@
                 "attendees": "1",
                 "latitude": "-8.521147",
                 "longitude": "179.1962"
-            },
+            }
+        ]
+    },
+    {
+        "name": "2022",
+        "events": [
             {
                 "id": "bzhrrsydckbdb",
                 "organizer": "Appsterdam",
@@ -211,12 +216,7 @@
                 "attendees": "7",
                 "latitude": "52.367077",
                 "longitude": "4.871191"
-            }
-        ]
-    },
-    {
-        "name": "2022",
-        "events": [
+            },
             {
                 "id": "vsqbssydcjbmc",
                 "organizer": "Appsterdam",
