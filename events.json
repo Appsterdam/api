@@ -110,7 +110,7 @@
                 "location_name": "https:\/\/www.meetup.com\/nl-NL\/Appsterdam\/events\/ptvkssydckbkc\/",
                 "location_address": ", ",
                 "icon": "chart.pie",
-                "attendees": "0",
+                "attendees": "1",
                 "latitude": "-8.521147",
                 "longitude": "179.1962"
             },
@@ -264,7 +264,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "11",
+                "attendees": "13",
                 "latitude": "52.367077",
                 "longitude": "4.871191"
             }
