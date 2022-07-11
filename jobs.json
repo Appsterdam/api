@@ -99,6 +99,120 @@
         "JobCity": "Utrecht"
     },
     {
+        "JobId": "MIW00355",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-android-developer-295991-31.html",
+        "JobTitle": "Senior Android Developer",
+        "JobShortDescription": "Are you a Senior Android Developer looking around to see what else might be really interesting? Come and have a chat with us\r\n",
+        "JobDescription": "\r\nIn this role as an Senior Android Developer you will work on different innovative projects\r\nYou will write clean code and you have experience with reviewing code as well\r\nYou are paying attention to details\r\nYou take full responsibility for building, testing and maintaining the Android application\r\nYou will create impact and help each other to develop, learn and grow\r\n\r\n\r\n\r\n",
+        "JobCriteria": "\r\n\r\n- 4 + years experience with programming\r\n- Android Studio, Android SDK, Java, Kotlin\r\n- Contributing to the optimization of the applications\r\n\r\n- Sharing your programming skills and coaching your colleagues \r\n- You are familiar with CI Tools; Jenkins\r\n- You are familiar with Atlassian suite\r\n- You are familiar with the Design Patterns\r\n- You are familiar with Agile\/Scrum\r\n- You have experience with code review\r\n- You have experience with writing unit tests\r\n- You are curious, enthusiastic and a problem solver\r\n- You are familiar with Git\r\n- You have a bachelors or master degree in IT or related study\r\n- You will come to the office at least two days a week\r\n- You have a Dutch working Visa and live in The Netherlands\r\n\r\n\r\n",
+        "JobSalaryBenefits": "\r\n\r\n- Permanent contract\r\n- You will receive a competitive salary\r\n- Travel plan\r\n- Space for personal development\r\n- Latest hardware to work with\r\n- Working hybrid\r\n- Vacation days\r\n\r\nIf you have questions about this vacancy or any other questions, please send a message to: info@thehouseofappril\r\ncom or call: 020-2157446\r\nWe love  helping you with finding your new job\r\n\r\n",
+        "JobStartDate": "2022-07-11 10:42:50",
+        "JobPublishStartDate": "2022-07-11",
+        "JobPublishEndDate": "2022-10-20",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Utrecht",
+            "JobLocationState": "NL_Utrecht",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<p>We are The House of Appril, we organize app events more than 10 years (Appril festival, Appdevcon) and we help App developers finding their next job. We do this by our network and guidance.<\/p><p>Our client is a Digital Agency who build and design scalable digital products of the highest quality. They create &ldquo;first-class&rdquo; digital strategies for B2B and consumer apps. They develop and design the whole process of Software development, continuous integration &amp; deployment, test and release management.&nbsp;Their team of 40 people are business developers, designers, testers, back-end, front-end and native app developers.<\/p>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/295991\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YsviinL1gyjwaXgL\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YsviinL1gyjwaXgL\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Utrecht"
+    },
+    {
+        "JobId": "MIW00354",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-295891-31.html",
+        "JobTitle": "Flutter Developer ",
+        "JobShortDescription": "Are you passionate about building applications for mobile devices in Flutter? Join our company and start coding\r\n",
+        "JobDescription": "As a Flutter developer you love to work on great apps, for big, international brands\r\nFlutter Apps with interesting new features that help companies provide their service in new and innovative ways\r\nIn this role you&rsquo;ll work as an Flutter developer with an experienced team of specialists and you&rsquo;ll translate designs in a user friendly mobile Flutter app\r\nYou will also write Unit Test and come up with technical solutions\r\n",
+        "JobCriteria": "\r\n\r\n- 3+ years of hands-on experience with Flutter development\r\n- You are familiar with writing Unit Test\r\n- You are familiar with CI\/CD\r\n- You have a bachelors or masters degree in Computer Science or in similar field\r\n- You love to work in a team\r\n- Strong focus on building high-quality user experiences\r\n- Nice if you have some native development experience (iOS, Android)\r\n- You have a Dutch working visa and you live in The Netherlands\r\n",
+        "JobSalaryBenefits": "\r\n\r\n- Permanent position\r\n- You will receive competitive salary\r\n- Working hybrid\r\n- Travel plan\r\n- Free lunches\r\n- Nice supportive colleagues\r\n- Extensive vacation arrangement\r\n- Space for personal development\r\n- Training budget of 1000 euro\r\n- The latest hardware to work with\r\n- Awesome trips with the team\r\n- And much more \r\n\r\n\r\n\r\n\r\nIf you have questions about this vacancy or any other questions, please send a message to: info@thehouseofappril\r\ncom or call: 020-2157446\r\nWe love  helping you with finding your new job\r\n\r\n",
+        "JobStartDate": "2022-07-08 23:56:06",
+        "JobPublishStartDate": "2022-07-11",
+        "JobPublishEndDate": "2022-10-18",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Eindhoven",
+            "JobLocationState": "NL_North_Brabant",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "About us, we are a small team of innovative professionals who design, develop and release mobile apps and web applications. We are located in Eindhoven. We have all the expertise in-house you need.&nbsp;About you ... as our new Flutter Developer, you will join our team and co-create our apps with the team. We are a fast growing company and we are passionate about tech, design and making a difference. Our team consist of 15 people. You will be part of our Development team. Are you able to bring our apps to the next level with your knowledge and experience? &nbsp;At our office we speak both Dutch and English.",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/295891\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Ysin9tCwvqa_0Ofx\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Ysin9tCwvqa_0Ofx\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Eindhoven"
+    },
+    {
+        "JobId": "MIW00353",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-ios-developer-295890-31.html",
+        "JobTitle": " Senior iOS Developer",
+        "JobShortDescription": "Are you a Senior iOS Developer looking around to see what else might be really interesting? Come and have a chat\r\n",
+        "JobDescription": "\r\nIn this role you&#39;ll work as an Senior iOS Developer on different innovative projects\r\nYou will write clean code and you have experience with reviewing code as well\r\nYou are paying attention to details, that&#39;s what make their apps successful\r\nWith an innovative mindset and working as a team they know they are able to develop iOS apps which are top notch\r\n\r\n\r\n\r\n",
+        "JobCriteria": "\r\n\r\n- 5 + years experience with programming\r\n- Working with new and existing applications in Swift\r\n\r\n- Contributing to the optimization of the applications\r\n\r\n- Sharing your programming skills and coaching your colleagues \r\n- You have experience with code review\r\n- You are curious, enthusiastic and a problem solver\r\n- You are familiar with Git\r\n- You have a bachelors or master degree in IT or related study\r\n- You have a Dutch working Visa and live in The Netherlands\r\n\r\n\r\n",
+        "JobSalaryBenefits": "\r\n\r\n- Permanent contract\r\n- You will receive a competitive salary\r\n- Travel plan\r\n- Space for personal development\r\n- Latest hardware to work with\r\n- Pension plan\r\n- Working hybrid\r\n- 26 vacation days\r\n- Hackatons every month\r\n- Friday Afternoon &#39;borreltje&#39;\r\n\r\nIf you have questions about this vacancy or any other questions, please send a message to: info@thehouseofappril\r\ncom or call: 020-2157446\r\nWe love  helping you with finding your new job\r\n\r\n",
+        "JobStartDate": "2022-07-08 19:34:43",
+        "JobPublishStartDate": "2022-07-11",
+        "JobPublishEndDate": "2022-10-19",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Amsterdam",
+            "JobLocationState": "NL_North_Holland",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<p>We are The House of Appril, we organize app events more than 10 years (Appril festival, Appdevcon) and we help App developers finding their next job. We do this by our network and guidance.<\/p><p>Our client is an experienced mobile agency with an international team. It&#39;s a fast growing company with a start-up feeling. They create apps you probably have used. The culture is informal and helping each other is the key element of their success. They are passionate and dedicated in what they do in order to create top notch apps.<\/p>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/295890\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Yshqs6XwZG3ZrtfD\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Yshqs6XwZG3ZrtfD\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Amsterdam"
+    },
+    {
         "JobId": "MIW00351",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-3-years-experience-293137-31.html",
         "JobTitle": "Flutter developer, 3+ years experience",
@@ -667,6 +781,44 @@
         "JobMatchCriteria": [],
         "JobProvider": "The House Of Appril",
         "JobCity": "Utrecht"
+    },
+    {
+        "JobId": "MIG00330",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-285331-31.html",
+        "JobTitle": "Flutter developer ",
+        "JobShortDescription": "Are you a freelance senior flutter developer who has time to coach a junior? let&#39; see if our client goes for this concept because we have a junior who needs guidance\r\n",
+        "JobDescription": "If as a Flutter developer you like nothing more than sinking your teeth into a new app to be developed, then you&#39;re in the right place with us\r\nBecause we are looking for your knowledge of building mobile applications, your ideas about the architecture and design of the app and of course the end result\r\nIf you can also work well together in a team, then that&#39;s absolutely great\r\n\r\n",
+        "JobCriteria": "3+ years of working with Dart\r\nIf you have any native experiences, great!\r\n\r\nYou like to coach and teach others\r\n",
+        "JobSalaryBenefits": "A competitive salary and a great remote and flexible working environment\r\n\r\nWorking with the latest hardware\r\nEnthusiastic team\r\nFull travel allowance\r\nThey encourage training and education for your personal and professional growth\r\nGood to know, they provide great lunches for everyone in the office, if you come 1 or 2 days a week\r\n\r\nFor questions about this vacancy, or do you want to know more about who we are, please contact us, Maike or Jacqueline, email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\n",
+        "JobStartDate": "2022-06-01 14:48:10",
+        "JobPublishStartDate": "2022-06-03",
+        "JobPublishEndDate": "2022-08-01",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Eindhoven",
+            "JobLocationState": "NL_North_Brabant",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "<p>Our client develops apps for several clients and is busy. The are looking for new people bu that&#39;s hard ;) So here we come, Maike and Jacqueline to help, if it&#39;s possible we like to connect the junior developer we have in mind, with a senior who guides the starte. If you have time to do this a few hours a week, please let us know.<\/p>",
+            "JobCompanyCulture": []
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/285331\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YpdgCppiPnEyDIZd\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YpdgCppiPnEyDIZd\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Eindhoven"
     },
     {
         "JobId": "MIW00325",
