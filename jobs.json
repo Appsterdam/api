@@ -1467,44 +1467,6 @@
         "JobCity": "Amsterdam"
     },
     {
-        "JobId": "MIG00299",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-android-developer-279542-31.html",
-        "JobTitle": "Android Developer \"",
-        "JobShortDescription": "Be part of the Mobile team and develop great apps using cutting edge technologies\r\n",
-        "JobDescription": "Technology never stops evolving and developing\r\nThat is continuous learning is crucial, especially for app developers\r\nYour immediate goal is to immerse yourself in the world of app developing and learn as much as possible\r\nSpecialised, or multifunctional like a swiss army-knive\r\nFor our client we are looking for somebody with exactly this &ldquo;always be learning&rdquo; mindset\r\nYou posses decent knowledge on Kotlin but are looking to grow even further\r\nYou are going to work on interesting apps, together with a team of skilled professionals\r\nTogether with them you get the chance to develop both apps and yourself\r\n\r\n",
-        "JobCriteria": "\r\nYou have experience in iOS App development (iOS SDK, Studio, Swift)\r\nExperience with RESTful APIs\r\nA Passion for the development profession &amp; high degree of curiosity\r\nExperience with Continuous integration unit tests\r\nApp architecture ( MVP or MVVM, MVVI)\r\nTools such as Git\r\nyou are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\n\r\n",
-        "JobSalaryBenefits": "You will receive a market conform salary with a a permanent contract\r\nIf you have questions, send a message to Jacqueline de Gruyter or Maike Warner: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe love to help you with finding a new job\r\n",
-        "JobStartDate": "2022-05-11 17:28:38",
-        "JobPublishStartDate": "2022-05-18",
-        "JobPublishEndDate": "2022-07-12",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "You are going to work apps for a big, international brand. They have an in-house team that develops and manages the webshop-app of the company. The process and hierarchy is defined in internal documents, but colleagues are still very supportive and open to new ideas: a happy end user is always the goal. Even though it is a big company, the team is quite informal. You will enter a team that works like a clockwork: from the very start on day one your colleagues will take help you settle.",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/279542\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YnvWJiXWjZDzGdwC\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YnvWJiXWjZDzGdwC\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam"
-    },
-    {
         "JobId": "MIG00298",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-279540-31.html",
         "JobTitle": "iOS Developer",
