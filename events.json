@@ -239,7 +239,12 @@
                 "attendees": "4",
                 "latitude": "52.367077",
                 "longitude": "4.871191"
-            },
+            }
+        ]
+    },
+    {
+        "name": "2022",
+        "events": [
             {
                 "id": "vsqbssydckbrb",
                 "organizer": "Appsterdam",
@@ -267,12 +272,7 @@
                 "attendees": "2",
                 "latitude": "-8.521147",
                 "longitude": "179.1962"
-            }
-        ]
-    },
-    {
-        "name": "2022",
-        "events": [
+            },
             {
                 "id": "bzhrrsydckbmb",
                 "organizer": "Appsterdam",
