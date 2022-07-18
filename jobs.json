@@ -55,17 +55,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobUrl": "https:\/\/appdevcon.nl\/job\/technical-program-manager-senior-staff-principal-at-bitrise\/",
-        "JobTitle": "technical program manager senior staff principal at bitrise",
-        "JobShortDescription": "technical program manager senior staff principal at bitrise...",
-        "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
-        "JobCriteria": "",
-        "JobPublishStartDate": "2022-06-08",
-        "JobPublishEndDate": "2022-06-08",
-        "JobProvider": "Egeniq",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobUrl": "https:\/\/appdevcon.nl\/job\/senior-mobile-engineer-ios-and-or-android-at-bitrise\/",
         "JobTitle": "senior mobile engineer ios and or android at bitrise",
         "JobShortDescription": "senior mobile engineer ios and or android at bitrise...",
@@ -95,6 +84,17 @@
         "JobCriteria": "",
         "JobPublishStartDate": "2022-06-17",
         "JobPublishEndDate": "2022-06-17",
+        "JobProvider": "Egeniq",
+        "JobCity": "Utrecht"
+    },
+    {
+        "JobUrl": "https:\/\/appdevcon.nl\/job\/technical-program-manager-senior-staff-principal-at-bitrise\/",
+        "JobTitle": "technical program manager senior staff principal at bitrise",
+        "JobShortDescription": "technical program manager senior staff principal at bitrise...",
+        "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
+        "JobCriteria": "",
+        "JobPublishStartDate": "2022-07-18",
+        "JobPublishEndDate": "2022-07-18",
         "JobProvider": "Egeniq",
         "JobCity": "Utrecht"
     },
