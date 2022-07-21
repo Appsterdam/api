@@ -783,44 +783,6 @@
         "JobCity": "Amsterdam "
     },
     {
-        "JobId": "MIW00332",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-medior-react-native-developer-286672-31.html",
-        "JobTitle": " Medior React Native Developer",
-        "JobShortDescription": "This vacancy is the second Start up app we have this week at The House of Appril\r\nSo if you like this fish startup energy, you are a Medior React Native Developer, we would love to meet you!\r\n",
-        "JobDescription": "\r\nYou are a Medior React Native developer and like to work for a Start Up starting in July? You can do this form home and one at the office in Utrecht\r\nYou are familiar with Firebase and able to work independent\r\nThere are other native app developers if you have questions\r\nThis is a special client because they are open to different constructions\r\nThe rest of the team is working for clients and consultancy\r\nYou are not, you can do one app only\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- You have been developing in React Native for at least 2+ years\r\n- You are familiar with Firebase\r\n- Start as soon as possible\r\n- You are a self-starter, analytical and love to solve problems\r\n- You have a Dutch working visa and live in The Netherlands\r\n\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- This vacancy is for a permanent contract or freelance\r\n- Depending on your experiences, you can receive shares, these build up to 4,9% in 3 years\r\n\r\nIf you would like to know more about this vacancy and meet our client, please contact Jacqueline, e-mail: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\n\r\n\r\n\r\n\r\n",
-        "JobStartDate": "2022-06-03 15:45:11",
-        "JobPublishStartDate": "2022-06-03",
-        "JobPublishEndDate": "2022-07-20",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": "NL_Utrecht",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "Our client builds Apps for customers and they have also their own products on the Appstore.&nbsp;They have a team of programmers, designers and strategists. In addition to developing apps, they also build websites.&nbsp;For one of their successful apps they are looking for additional reinforcement. It is a young club, where there is space for growth and development.&nbsp; Are you a self-starter, do you have new ideas and can you move fast? Let&#39;s talk!",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/286672\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YpoQZ-U4by6I6XgG\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YpoQZ-U4by6I6XgG\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
-    },
-    {
         "JobId": "MIG00330",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-285331-31.html",
         "JobTitle": "Flutter developer ",
@@ -1085,44 +1047,6 @@
         "JobMatchCriteria": [],
         "JobProvider": "The House Of Appril",
         "JobCity": "Utrecht"
-    },
-    {
-        "JobId": "MIW00315",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-kotlin-expert-283707-31.html",
-        "JobTitle": "Kotlin expert ",
-        "JobShortDescription": "Kotlin expert with 4 years of app development, looking for a new job in Den Haag? Push the apply button and let&#39;s have a coffee!\r\n",
-        "JobDescription": "\r\nFor our client we are looking for a Kotlin expert for joining their Android team\r\nTogether with your team members you will develop Android apps for our clients, from end to end through prototyping, validation, implementation, launch, and further iteration\r\nYou will shape the direction of future Android products\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- Familiar with functional programming concepts\r\n- Familiar with architectural patterns &ndash; CLEAN, MVVM vs MVP\r\n- Familiar with Kotlin + Kotlin ktx, Android Jetpack, Coroutines\r\n- Familiar with Rest APls, JSON and serialized data\r\n- If you have experience with GraphQL backends, that&#39;s awesome\r\n- You are able and enjoy to collaborate with other developers and designers\r\n\r\n\r\n**Note: **Only for developers who live in EU and have a visum to work within the EU!\r\nUnfortunately, our clients do not work with people on only a remote basis\r\n\r\n",
-        "JobSalaryBenefits": "\r\nWe are looking for a developer who likes to have a permanent contract\r\n\r\n\r\n\r\n- You will receive a market conform salary\r\n- Extensive vacation arrangement\r\n- Space for personal development\r\n- The latest hardware to work with\r\n- Free lunches\r\n- Reimbursement of travel expenses\r\n- And last but not least: unlimited vacation days!\r\n!\r\n!\r\n= True\r\n\r\nFor questions about this or the other vacancies, please contact us, Jacqueline or Maike, email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe love to help you with a new job\r\n\r\n",
-        "JobStartDate": "2022-05-26 09:35:44",
-        "JobPublishStartDate": "2022-05-26",
-        "JobPublishEndDate": "2022-07-20",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Den Haag",
-            "JobLocationState": "NL_South_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "Our client is a small tech company in Den Haag, with professional fanatics who love to develop Android apps every day, from idea to the Google Play Store. They have everything in house to publish a successful apps, from design to code. They work agile and they are always looking for new frameworks and technologies. And yess - they have an awesome modern office with much daylight. So, no feeling of working in the attic ;-)",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/283707\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Yo8t0H8nhI07_CMN\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Yo8t0H8nhI07_CMN\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Den Haag"
     },
     {
         "JobId": "MIW00313",
@@ -2068,44 +1992,6 @@
         "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/275978\/bb\/1",
         "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Ymu4aTbU9C6f7uNq\/CurrentLanguage\/1",
         "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Ymu4aTbU9C6f7uNq\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
-    },
-    {
-        "JobId": "MIG00266",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-ios-developer-274892-31.html",
-        "JobTitle": " iOS Developer",
-        "JobShortDescription": "This vacancy is the second Start up app we have this week at The House of Appril\r\nSo if you like this fish startup energy, you are a Medior iOS Developer, we would love to meet you!\r\n",
-        "JobDescription": "\r\nYou are a Medior iOS developer and like to work for a Start Up? You can do this form home and one at the office in Utrecht\r\nYou are familiar with Firebase and able to work independent\r\nThere are other native app developers if you have questions\r\nThis is a special client because they are open to different constructions\r\nThe rest of the team is working for clients and consultancy\r\nYou are not, you can do one app only\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- You have been developing in Swift for at least 2+ years\r\n- You are familiar with Firebase\r\n- You are a self-starter, analytical and love to solve problems\r\n\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- This vacancy is for a permanent contract or freelance\r\n- Depending on your experiences, you can receive shares, these build up to 4,9% in 3 years\r\n\r\nIf you would like to know more about this vacancy and meet our client, please contact Jacqueline, e-mail: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nLove to help you find a new job\r\n\r\n\r\nThe agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n",
-        "JobStartDate": "2022-04-21 18:58:31",
-        "JobPublishStartDate": "2022-04-21",
-        "JobPublishEndDate": "2022-07-20",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": "NL_Utrecht",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "Our client builds Apps for customers and they have also their own products on the Appstore.&nbsp;They have a team of programmers, designers and strategists. In addition to developing apps, they also build websites.&nbsp;For one of their successful apps they are looking for additional reinforcement. It is a young club, where there is space for growth and development.&nbsp; Are you a self-starter, do you have new ideas and can you move fast? Let&#39;s talk!",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/274892\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YmGNN5xGl_Ptix6G\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YmGNN5xGl_Ptix6G\/CurrentLanguage\/1",
         "JobCategory": [],
         "AlternativeJobCategory": [],
         "JobMatchCriteria": [],
