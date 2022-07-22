@@ -1163,82 +1163,6 @@
         "JobCity": "Eindhoven"
     },
     {
-        "JobId": "MIG00311",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-senior-ios-engineer-281403-31.html",
-        "JobTitle": "Senior iOS engineer",
-        "JobShortDescription": "Are you building applications for mobile devices running Apple&#39;s iOS operating software? Join our company and start designing and coding\r\n",
-        "JobDescription": "As an app-developer you love to work on great apps, for big, international brands\r\nApps with interesting new features that help companies provide their service in new and innovative ways\r\nYou are an iOS developer and build the best apps for Apple devices such as iPhone, iPad, iPod Touch, Apple TV and Apple Watch\r\nIn this role you&rsquo;ll work as medior iOS developer at a company who takes the above at heart\r\nTogether with an experienced team of specialists you&rsquo;ll get the chance to work on a variety of innovative apps\r\nYou will work with supportive colleagues that are keen to exchange ideas, but you will also get enough freedom to do your work according to your own insights\r\n**Luister HIER na de Nederlandse podcast over de functie\r\n**",
-        "JobCriteria": "\r\nIn order to be successful in this role, you will at least need the following:\r\n3+ years of hands-on experience with iOS development\r\nProficiency with modern Swift and Objective-C\r\nThe iOS SDK has little secrets \r\nStrong focus on building high-quality user experiences\r\n\r\nThe agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n**Luister HIER naar onze Nederlandse podcast over het bedrijf\r\n**\r\n",
-        "JobSalaryBenefits": "\r\nWe are calling for a developer looking for a permanent position open\r\n\r\nYou will receive a market conform salary\r\n\r\nExtensive vacation arrangement\r\nSpace for personal development\r\nThe latest hardware to work with\r\nReimbursement of travel expenses\r\n\r\nWanna know more about the job? Contact us Maike and Jacqueline from The House of Appril &ndash; We are an agency based in Amsterdam with the most experienced coders, native and hybrid\r\nOur agency is here to inspire, guide and connect app developers\r\nWe do this to help find their next job or gig\r\nBy uniting code experts, connecting them with technology company&#39;s and by organise our app festival, we are 100% app minded and here to help\r\n\r\n",
-        "JobStartDate": "2022-05-18 14:05:21",
-        "JobPublishStartDate": "2022-05-26",
-        "JobPublishEndDate": "2022-07-21",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Delft",
-            "JobLocationState": "NL_South_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "About us, we are a small team of innovative professionals who design, develop and release apps in The AppStore on multiple mobile platforms. We are near Rotterdam and have our own office. We build and create our own successful apps, not for clients! We have all the expertise you need to do so.&nbsp;About you...as our new senior iOS Developer, you will join our team and co-create our apps with the team. You will be part of our Development team. Are you able to bring our apps to the next level with your knowledge and experience? &nbsp;At our office we speak both Dutch and English",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/281403\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YoThASgIfOQUqJ4T\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YoThASgIfOQUqJ4T\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Delft"
-    },
-    {
-        "JobId": "MIG00310",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-281396-31.html",
-        "JobTitle": "Flutter developer",
-        "JobShortDescription": "Our client is Dart minded, so if you are into Flutter, please react\r\n#Dartvader #FlutterKing #apps #developer  ",
-        "JobDescription": "Technology never stops evolving and developing\r\nThat is continuous learning is crucial, especially for app developers\r\nYour immediate goal is to immerse yourself in the world of app developing and learn as much as possible\r\nSpecialised, or multifunctional like a swiss army-knive\r\nFor our client we are looking for somebody with exactly this &ldquo;always be learning&rdquo; mindset\r\nYou posses decent knowledge on Dart but are looking to grow even further\r\nYou are going to work on interesting apps for different clients, together with a team of skilled professionals\r\nTogether with them you get the chance to develop both apps and yourself\r\n",
-        "JobCriteria": "\r\nThree years of working with Dart\r\n\r\nNice to have\r\n\r\n\r\nExperience with Kotlin or Swift\r\n\r\nThe agencies we work with are looking for app builders who are reside in The Netherlands\r\n\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n#Agile #Flutter #Dart\r\n",
-        "JobSalaryBenefits": "Our client is open to negotiate a permanent contract, The House of Appril will help you wit this when the time comes\r\nYou will receive a market conform salary\r\nIn addition, out client offers a royal package of additional benefits\r\n\r\n\r\nYou will receive:\r\n\r\n- A competitive salary\r\n\r\n- Extensive vacation arrangement\r\n- Space for personal development\r\n- The latest hardware to work with\r\n- Reimbursement of travel expenses\r\n",
-        "JobStartDate": "2022-05-18 13:37:38",
-        "JobPublishStartDate": "2022-05-27",
-        "JobPublishEndDate": "2022-07-21",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Eindhoven ",
-            "JobLocationState": "NL_North_Brabant",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "This client is crating apps for clients, fanatics who love to develop apps every day, from idea to the App Store. They have everything in house to publish a successful app, from design to code. They are an international team and are always looking for new frameworks and technologies that we can deploy.&nbsp;",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/281396\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YoTagmaXjnM3h48T\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YoTagmaXjnM3h48T\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Eindhoven "
-    },
-    {
         "JobId": "MIW00306",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-medior-senior-android-developer-280932-31.html",
         "JobTitle": "Medior\/Senior Android Developer",
@@ -2111,43 +2035,5 @@
         "JobMatchCriteria": [],
         "JobProvider": "The House Of Appril",
         "JobCity": "Amsterdam"
-    },
-    {
-        "JobId": "MIW00256",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-medior-ios-developer-273413-31.html",
-        "JobTitle": "Medior iOS Developer",
-        "JobShortDescription": "Are you a Junior or Medior iOS Developer with Firebase knowlegde who would like to work for a StartUp? Let&#39;s have a chat!\r\n",
-        "JobDescription": "\r\nAs a Junior or Medior iOS developer you will work at least 3 days for the StartUp\r\nFreelance or as an employee is possible as long as you will be working in the office one day a week\r\nFamiliar with Firebase is a must\r\nOur client is open to different constructions\r\nYou spend one day in the office in Utrecht (or more) and the rest can be remote\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- You have been developing in Swift for at least 2+ years\r\n- You are familiar with Firebase\r\n- You are a self-starter, analytical and love to solve problems\r\n\r\nThe agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n",
-        "JobSalaryBenefits": "\r\n\r\n- This vacancy is for a permanent contract or freelance\r\n- Depending on your experiences, you can receive shares, these build up to 4,9% in 3 years\r\n\r\nIf you would like to know more about this vacancy and meet our client, please contact Jacqueline, e-mail: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nWe would love to help you find a new job\r\n\r\n",
-        "JobStartDate": "2022-04-11 16:49:48",
-        "JobPublishStartDate": "2022-04-11",
-        "JobPublishEndDate": "2022-07-21",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Utrecht",
-            "JobLocationState": "NL_Utrecht",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "Our client builds Apps for customers and they have also their own products on the Appstore.&nbsp; For one of their successful apps they are looking for additional reinforcement. It is a young club, where there is space for growth and development.&nbsp; Are you a self-starter, do you have new ideas and can you move fast? Let&#39;s talk!",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/273413\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YlRADKKwpCvW2xII\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YlRADKKwpCvW2xII\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Utrecht"
     }
 ]
