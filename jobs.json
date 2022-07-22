@@ -99,44 +99,6 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobId": "MIG00359",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-lead-architect-mobile-298225-31.html",
-        "JobTitle": "Lead architect Mobile",
-        "JobShortDescription": "Speciale opdracht\/ gezocht: Mobile Architect voor 20 green fields apps\r\n",
-        "JobDescription": "\r\nBen jij een senior \/ mobile architect die de aankomende periode tijd heeft voor een enorme opdracht\r\nEen opdracht waar je de structuur van zowel de iOS als de Android App bepaald\r\nBel mij even voor meer informatie want ik zoek echt een hele stevige developer voor deze klus\r\nDeze rol is in overleg in te vullen met de klant\r\nDat betekend dat je soms 2 dagen werkt, anders weer 3 weken achter elkaar\r\nKortom het is flexible in te vullen en er is heel veel werk\r\n\r\n",
-        "JobCriteria": "je hebt ervaring met het opzetten van de backend\/ structuur voor zowel iOS als Android app\r\n\r\nWeet als geen andere dan beslissingen die je nu maakt veel impact kunnen hebben in de toekomst\r\n\r\nje hebt oog voor security \r\nje bent bekend met architecture components en design paterns\r\n\r\nErvaring met agile\r\n",
-        "JobSalaryBenefits": "\r\nNatuurlijk hebben we het hier over een marktconforme fee\r\nWil jij meer weten over deze functie, heb je vragen of zoek je een stukje carri&egrave;re advies, schroom dan niet om contact met ons op te nemen\r\nStuur een mailtje naar: info@thehouseofappril\r\ncom of bel even met Jacqueline: 020- 2157446\r\n\r\n\r\n",
-        "JobStartDate": "2022-07-21 15:55:19",
-        "JobPublishStartDate": "2022-07-21",
-        "JobPublishEndDate": "2022-10-01",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam ",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "Onze klant is een Nederlandse organisatie waar veel werk te doen is. Ik vertel je er graag 1 op 11 meer over",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/298225\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YtlaxxmQ278eXDuU\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YtlaxxmQ278eXDuU\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam "
-    },
-    {
         "JobId": "MIG00356",
         "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-flutter-developer-297993-31.html",
         "JobTitle": "Flutter Developer",
