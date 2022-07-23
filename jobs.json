@@ -1959,43 +1959,5 @@
         "JobMatchCriteria": [],
         "JobProvider": "The House Of Appril",
         "JobCity": "Utrecht"
-    },
-    {
-        "JobId": "MIG00265",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-android-developer-274891-31.html",
-        "JobTitle": "Android developer",
-        "JobShortDescription": "Do you want to develop apps in a small friendly team? Using Kotlin technologies and have a lot of responsibilities? Let&#39;s meet online to see if this job fits you!\r\n",
-        "JobDescription": "In this role you&rsquo;ll work as medior android at a company who takes the above at heart\r\nTogether with an experienced team of specialists you&rsquo;ll get the chance to work on a variety of innovative apps\r\nYou will work with supportive colleagues that are keen to exchange ideas, but you will also get enough freedom to do your work according to your own insights\r\n\r\n",
-        "JobCriteria": "\r\n\r\n- 3+ years of experience with Android development\r\n- Broad knowledge of Kotlin and Java\r\n- Experience with unit tests\r\n- Knowledge of different architectures and design patterns\r\n- Being able to publish apps to the Store\r\n- Experience with Scrum and Agile working\r\n\r\n\r\n**Nice to have:**\r\nExperience with Flutter development\r\n\r\nThe agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n",
-        "JobSalaryBenefits": "\r\nThis role is with a permanent contract, The House of Appril will help you with this when the time comes\r\nYou will receive a market conform salary\r\n\r\n",
-        "JobStartDate": "2022-04-21 18:48:20",
-        "JobPublishStartDate": "2022-04-21",
-        "JobPublishEndDate": "2022-07-22",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "<p style=\"margin-left:24px\"><span style=\"font-size:12pt\"><span style=\"font-family:&quot;Times New Roman&quot;,serif\">Our client is a mobile agency and you will work with a tight-knit team where being hands-on is the go-to approach. This creates a synergy where team members are supportive of each other&rsquo;s ideas and different specialists bring different skills to the table. The culture is informal and helping each-other is a key element in the success of the team. However, there is plenty of space to approach your tasks the way that you see fit. This way you can strengthen the team, and at the same develop your own skills as well.<\/span><\/span><\/p>",
-            "JobCompanyCulture": []
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/274891\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/YmGK1MTsLb9k8ZpZ\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/YmGK1MTsLb9k8ZpZ\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam"
     }
 ]
