@@ -194,10 +194,15 @@
                 "location_name": "https:\/\/www.meetup.com\/nl-NL\/Appsterdam\/events\/ptvkssydckbkc\/",
                 "location_address": ", ",
                 "icon": "chart.pie",
-                "attendees": "3",
+                "attendees": "4",
                 "latitude": "-8.521147",
                 "longitude": "179.1962"
-            },
+            }
+        ]
+    },
+    {
+        "name": "2022",
+        "events": [
             {
                 "id": "cslpvsydckbfc",
                 "organizer": "Appsterdam",
@@ -225,12 +230,7 @@
                 "attendees": "23",
                 "latitude": "52.367077",
                 "longitude": "4.871191"
-            }
-        ]
-    },
-    {
-        "name": "2022",
-        "events": [
+            },
             {
                 "id": "vsqbssydckbbc",
                 "organizer": "Appsterdam",
