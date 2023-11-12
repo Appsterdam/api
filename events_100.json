@@ -40,7 +40,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "3",
+                "attendees": "6",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
@@ -138,7 +138,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "0",
+                "attendees": "2",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
