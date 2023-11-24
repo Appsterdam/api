@@ -87,20 +87,6 @@
                 "longitude": "4.8711910247803"
             },
             {
-                "id": "291106627",
-                "organizer": "Appsterdam",
-                "date": "20231202190000:20231202220000",
-                "name": "Weekend Fun: Amsterdam Light Festival",
-                "description": "Because of the great success earlier this year, we're doing this again.\r\n\r\nStay tuned for more information!\r\n\r\nWe hope to have more information in October 2023. ",
-                "price": "0",
-                "location_name": "https:\/\/www.meetup.com\/nl-NL\/Appsterdam\/events\/291106627\/",
-                "location_address": ", ",
-                "icon": "hands.sparkles",
-                "attendees": "3",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "mnbmbtyfcqbjb",
                 "organizer": "Appsterdam",
                 "date": "20231206190000:20231206220000",
@@ -155,6 +141,20 @@
                 "attendees": "0",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
+            },
+            {
+                "id": "291106627",
+                "organizer": "Appsterdam",
+                "date": "20231216190000:20231216220000",
+                "name": "Weekend Fun: Amsterdam Light Festival",
+                "description": "Because of the great success earlier this year, we're doing this again.\r\n\r\nStay tuned for more information! ",
+                "price": "0",
+                "location_name": "https:\/\/www.meetup.com\/nl-NL\/Appsterdam\/events\/291106627\/",
+                "location_address": ", ",
+                "icon": "hands.sparkles",
+                "attendees": "4",
+                "latitude": "0",
+                "longitude": "0"
             },
             {
                 "id": "mnbmbtyfcqbbc",
