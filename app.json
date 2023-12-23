@@ -119,6 +119,20 @@
                     "bio": "."
                 }
             ]
+        },
+        {
+            "team": "Weekly Meeten en Drinken",
+            "members": [
+                {
+                    "name": "Mike Lee",
+                    "picture": "https:\/\/i0.wp.com\/appsterdam.rs\/wp-content\/uploads\/2021\/11\/Mike-lee-min.png?resize=600%2C600&ssl=1",
+                    "function": "Mayor of Appsterdam",
+                    "twitter": "bmf",
+                    "linkedin": "mikelee5",
+                    "website": "https:\/\/le.mu.rs\/",
+                    "bio": "Mike Lee founded Appsterdam in 2011 as part of Amsterdam-based software house Sofa BV, and facilitated our conversion to a community-owned foundation after Sofa\u2019s acquisition by Facebook.\r\n\r\nAs Mayor of Appsterdam, Mike is our coordinator of coordinators and moral figurehead, famously dispensing insightful advice and delicious baked treats.\r\n\r\nMike is an Apple Design Award winning software engineer with over 25 years experience; a well known public speaker who has pushed the envelope on what can be discussed at technology conferences; and a respected teacher on a wide array of social, business, and technical topics.\r\n\r\nMike grew up in Honolulu, Hawaii, and worked in Silicon Valley before settling in the Netherlands. Mike\u2019s varied interests include lemurs, LEGO, and tools."
+                }
+            ]
         }
     ]
 }
