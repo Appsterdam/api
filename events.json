@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "297919326",
-                "organizer": "Appsterdam",
-                "date": "20240113210000:20240113230000",
-                "name": "Weekend Fun: Amsterdam Light Festival",
-                "description": "### Amsterdam Light Festival (Edition 12)\r\n\r\nJoin us in a boat trip to go around 20 light artworks turn the historic center of Amsterdam into an outdoor exhibition space. From interactive lampposts, to a giant ball of yarn and from luminous fireflies to an installation that makes it seem like the water is burning. The works of Edition 12 trigger your imagination. Be sure to come and see them.\r\n\r\n[https:\/\/amsterdamlightfestival.com](https:\/\/amsterdamlightfestival.com)\r\n\r\n\\-\\-\\-\\-\r\n\r\nPlease note: there are only 10 spots, unfortunately that means for everyone on the waiting list, that it is not possible to attend this event. ",
-                "price": "55",
-                "location_name": "Light Cruise Special Style",
-                "location_address": "Geldersekade 8, , Amsterdam",
-                "icon": "hands.sparkles",
-                "attendees": "10",
-                "latitude": "52.376194000244",
-                "longitude": "4.9019532203674"
-            },
-            {
                 "id": "mnbmbtygccbwb",
                 "organizer": "Appsterdam",
                 "date": "20240117190000:20240117220000",
@@ -147,6 +133,20 @@
     {
         "name": "2024",
         "events": [
+            {
+                "id": "297919326",
+                "organizer": "Appsterdam",
+                "date": "20240113210000:20240113230000",
+                "name": "Weekend Fun: Amsterdam Light Festival",
+                "description": "### Amsterdam Light Festival (Edition 12)\r\n\r\nJoin us in a boat trip to go around 20 light artworks turn the historic center of Amsterdam into an outdoor exhibition space. From interactive lampposts, to a giant ball of yarn and from luminous fireflies to an installation that makes it seem like the water is burning. The works of Edition 12 trigger your imagination. Be sure to come and see them.\r\n\r\n[https:\/\/amsterdamlightfestival.com](https:\/\/amsterdamlightfestival.com)\r\n\r\n\\-\\-\\-\\-\r\n\r\nPlease note: there are only 10 spots, unfortunately that means for everyone on the waiting list, that it is not possible to attend this event. ",
+                "price": "55",
+                "location_name": "Light Cruise Special Style",
+                "location_address": "Geldersekade 8, , Amsterdam",
+                "icon": "hands.sparkles",
+                "attendees": "10",
+                "latitude": "52.376194000244",
+                "longitude": "4.9019532203674"
+            },
             {
                 "id": "vvlvhtygccbrb",
                 "organizer": "Appsterdam",
