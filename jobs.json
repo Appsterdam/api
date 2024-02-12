@@ -1,6 +1,6 @@
 [
     {
-        "JobID": "6e101a87c93afa76296e7498d82ba2c6",
+        "JobID": "1f9fed00c012a54ba8fe6ec58dadea5f",
         "JobUrl": "https:\/\/appdevcon.nl\/job\/apps-consultant-gaming-and-apps-at-google\/",
         "JobTitle": "apps consultant gaming and apps at google",
         "JobShortDescription": "apps consultant gaming and apps at google...",
@@ -12,7 +12,7 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobID": "c0beb8c3a259779fc4677a5119f268f8",
+        "JobID": "b33c2913105bad5888f07eaca1342c71",
         "JobUrl": "https:\/\/appdevcon.nl\/job\/back-end-cloud-developer-at-egeniq\/",
         "JobTitle": "back end cloud developer at egeniq",
         "JobShortDescription": "back end cloud developer at egeniq...",
@@ -22,6 +22,45 @@
         "JobPublishEndDate": "2023-04-14",
         "JobProvider": "Egeniq",
         "JobCity": "Utrecht"
+    },
+    {
+        "JobId": "MIG00650",
+        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-backend-app-developer-381184-31.html",
+        "JobTitle": "Backend app developer ",
+        "JobShortDescription": "We zoeken een backend developer die zowel het team kan aansturen als de API kan door ontwikkelen",
+        "JobDescription": "\r\nWe are looking for a tactical backend developer  who will solve business problems by aligning with product owners and translating the business demand towards the development team\r\nYou will manage the projects by drafting API specifications together with the team, setting up new requirements for existing applications, checking the quality and developing yourself\r\n\r\nYou are a senior, review code and delegate to enable others to deliver and set them up for success\r\nYou are representing the company towards third parties (suppliers and Government) and you will lead these meetings\r\nYou inspire and coach teams and developers using you interpersonal and soft-skills\r\n\r\n\r\n\r\n",
+        "JobCriteria": "\r\nYou have experience with Java\/Kotlin\/Spring boot\r\nAPI design and development \r\n&bull; Preferably have some knowledge or expertise in AWS, docker &amp; k8s, mobile frontend development\r\nJe spreekt bijvoorkeur Nederlands\r\n\r\n**Nice to have\r\n\r\n**\r\nJavascript experience\r\n",
+        "JobSalaryBenefits": "For a senior\r\n\r\na little bit less than &euro; 6000,- max\r\nWanna know more? Email: jacqui@thehouseofappril\r\ncom ",
+        "JobStartDate": "2024-02-12 13:42:34",
+        "JobPublishStartDate": "2024-02-12",
+        "JobPublishEndDate": "2024-05-12",
+        "JobLocation": {
+            "JobLocationAddress": [],
+            "JobLocationZipCode": [],
+            "JobLocationCity": "Leiden",
+            "JobLocationState": "NL_South_Holland",
+            "JobLocationCountry": "Netherlands",
+            "JobLocationGeoLatitude": [],
+            "JobLocationGeoLongitude": []
+        },
+        "JobCompany": {
+            "JobCompanyName": [],
+            "JobCompanyContact": {
+                "JobCompanyContactName": [],
+                "JobCompanyContactEmail": []
+            },
+            "JobCompanyProfile": "This company has 10+ native apps in the store, the team is international. We hear a lot about app teams in NL, about the companies and the atmosphere. About this team, we&#39;ve heard good things. Nice challenges and apps.&nbsp;",
+            "JobCompanyCulture": "Hi there! We are The House of Appril, the only Dutch talent agency specialised in app professionals that helps you with great app development jobs in The Netherlands. We are Firmly rooted in the community and as organiser of the Appril Festival, something we have been doing since 2012!   We  support  the Dutch app community and we have a  large network of interesting companies. We provide you with plenty of guidance: online and offline, we support you with your resume, interview advice and our network. The House of Appril's unique approach helps you find your next job or gig. "
+        },
+        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/381184\/bb\/1",
+        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/ZcoSOjESnVWn5k6J\/CurrentLanguage\/1",
+        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/ZcoSOjESnVWn5k6J\/CurrentLanguage\/1",
+        "JobCategory": [],
+        "AlternativeJobCategory": [],
+        "JobMatchCriteria": [],
+        "JobID": "933a205f4c54df3a60a3043cc55db202",
+        "JobProvider": "The House Of Appril",
+        "JobCity": "Leiden"
     },
     {
         "JobId": "MIG00642",
@@ -58,7 +97,7 @@
         "JobCategory": [],
         "AlternativeJobCategory": [],
         "JobMatchCriteria": [],
-        "JobID": "c878f0f26fd7a1785499ec4cc00b322d",
+        "JobID": "c5d11aff1726fd7f170be94c70682eff",
         "JobProvider": "The House Of Appril",
         "JobCity": "Amsterdam"
     },
@@ -97,7 +136,7 @@
         "JobCategory": [],
         "AlternativeJobCategory": [],
         "JobMatchCriteria": [],
-        "JobID": "8f1358fad509d7cd78e1439f2171e7af",
+        "JobID": "dee2e06d914162ac905ddb08a804168b",
         "JobProvider": "The House Of Appril",
         "JobCity": "Den Haag"
     }
