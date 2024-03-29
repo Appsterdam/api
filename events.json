@@ -12,7 +12,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "7",
+                "attendees": "9",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
@@ -73,6 +73,20 @@
                 "longitude": "4.8711910247803"
             },
             {
+                "id": "300090787",
+                "organizer": "Appsterdam",
+                "date": "20240417133000:20240417163000",
+                "name": "Partner event (Appril): Leer je te verplaatsen in de gebruiker en verhoog...",
+                "description": "[Dutch Only]\r\n\r\nIn deze interactieve sessie ontdek je hoe empathie voor de gebruiker de sleutel is tot het succes van digitale producten en diensten. We duiken in een praktische aanpak om gebruikersbehoeften te identificeren en te begrijpen. Verbeter de gebruiksvriendelijkheid en klanttevredenheid: cre\u00eber digitale oplossingen waar gebruikers \u00e9cht blij van worden.\r\n\r\nDeze sessie neemt je mee in onderwerpen als:\r\n\r\n* Wat is UX research en waarom je het zou moeten doen\r\n\r\n* Landschap van onderzoeksmethodes\r\n\r\n* Enkele cases\r\n\r\n* Opzetten van een gebruikersonderzoek\r\n\r\n* Interviewvragen- en technieken\r\n\r\n* Resultaten analyseren\r\n\r\n* Onderzoeksresultaten communiceren en borgen\r\n\r\n* Vraag &amp; antwoord: Alles wat je maar wilt weten over gebruikersonderzoek\r\n\r\n## Niet vergeten!\r\n\r\nLaptop en smartphone mee.\r\n\r\nAANMELDEN VIA: [https:\/\/apprilfestival.com\/sessions\/leer-je-te-verplaatsen-in-de-gebruiker-en-verhoog-het-succes-van-digitale-producten-en-diensten\/](https:\/\/apprilfestival.com\/sessions\/leer-je-te-verplaatsen-in-de-gebruiker-en-verhoog-het-succes-van-digitale-producten-en-diensten\/) ",
+                "price": "0",
+                "location_name": "UX Academy",
+                "location_address": "Meeuwenlaan 98, Amsterdam",
+                "icon": "",
+                "attendees": "2",
+                "latitude": "52.385696411133",
+                "longitude": "4.9216771125793"
+            },
+            {
                 "id": "mztcktygcgbwb",
                 "organizer": "Appsterdam",
                 "date": "20240417190000:20240417220000",
@@ -115,6 +129,48 @@
                 "longitude": "4.914999961853"
             },
             {
+                "id": "300091123",
+                "organizer": "Appsterdam",
+                "date": "20240423121500:20240423133000",
+                "name": "Partner Event (Appril): Mobile Lunch Utrecht",
+                "description": "Are you searching for an organization that can build, design, or assist with the launch of your app? Are you seeking specialists who are knowledgeable about the development process, whether it be low code, native, or web? Then come to our Mobile Lunch in Utrecht. Here, you can network extensively with professionals developing apps in the Utrecht region. We anticipate a mix of professionals from the app industry, from founders and developers to designers. This networking lunch is casual and unpretentious. If you find it intriguing, come a little earlier and sign up for the session on AI and dementia. After lunch, we\u2019ll have a presentation on how to utilize ChatCTP for your users.\r\n\r\n## The Menu\r\n\r\n**Healthy Lunch**\r\n\r\nSoup of the day, a salad bar, and fresh options:\r\n\r\nChef\u2019s salad of the day\r\n\r\nSmoothie of the day\r\n\r\nRoll with Dutch \u201ckroket\u201d and mustard\r\n\r\nQuiche of the day\r\n\r\nFresh orange juice and detox water, fruits\r\n\r\nDrinks like coffee and tea are included\r\n\r\n**Note**\r\n\r\nIf you are vegetarian or have any allergies, please let us know in advance, email: [[masked]](mailto:[masked])\r\n\r\nSIGN UP: [https:\/\/apprilfestival.com\/sessions\/mobile-lunch-utrecht\/](https:\/\/apprilfestival.com\/sessions\/mobile-lunch-utrecht\/) ",
+                "price": "0",
+                "location_name": "Spaces - House Modernes",
+                "location_address": "Lange Viestraat 2b, Utrecht",
+                "icon": "",
+                "attendees": "2",
+                "latitude": "52.093063354492",
+                "longitude": "5.1157660484314"
+            },
+            {
+                "id": "300090923",
+                "organizer": "Appsterdam",
+                "date": "20240423134500:20240423144500",
+                "name": "Partner event (Appril): GPT prompt engineering code workshop",
+                "description": "During this hands-on session, bring your laptop and immerse yourself in a practical exploration of LLMs. Go beyond what is possible for laypeople by integrating the powers of LLMs into code!\r\n\r\nLLMs are very good at human-like things, like language and pattern-matching. They have enormous soft powers, like subtle intelligence, structuring text, and even producing code. Code, on the other hand, adds hard powers: loops, calculus, storage, variables, GUIs, etc. The combination of LLMs and code gives exponential powers!\r\n\r\nWe will use OpenAI API endpoints. Learn to build a simple yet powerful chatbot using text from your company\u2019s website or other sources. Extract structural data and gain valuable insights into maximizing the potential of LLMs.\r\n\r\nSIGN UP USING: [https:\/\/apprilfestival.com\/sessions\/9746\/](https:\/\/apprilfestival.com\/sessions\/9746\/) ",
+                "price": "0",
+                "location_name": "Spaces - House Modernes",
+                "location_address": "Lange Viestraat 2b, Utrecht",
+                "icon": "",
+                "attendees": "2",
+                "latitude": "52.093063354492",
+                "longitude": "5.1157660484314"
+            },
+            {
+                "id": "300091094",
+                "organizer": "Appsterdam",
+                "date": "20240423160000:20240423190000",
+                "name": "Partner Event (Appril): Amsterdam App Growth Experts",
+                "description": "### Join us for an exclusive afternoon dedicated to learning, sharing, and connecting with a select group of top-tier mobile app marketers and brands from around the world.\r\n\r\nWhether you\u2019re a seasoned pro or just starting your mobile marketing journey. Dive deep into the hottest topics in the industry, including: Engagement Strategies: Keep your users hooked and coming back for more. Subscription Optimization: Turn casual users into loyal subscribers. App Monetization Tactics: Unlock the full revenue potential of your app. And beyond! We\u2019ll cover a range of mobile marketing challenges and opportunities.\r\n\r\n## **Program:**\r\n\r\n**Walk-in**:\u00a016:00\r\n\r\n**Sessions Start:**\u00a016:15\r\n\r\nThe \u201cApp Growth Blueprint\u201d:\u00a0Louise reveals her proven framework for navigating each stage of app growth.\r\n\r\nHyper-personalization Masterclass:\u00a0Dimi delivers an interactive session on crafting impactful in-app messages.\r\n\r\n**Networking:**\u00a017:30 onwards (drinks and snacks provided)\r\n\r\n## **This session is ideal for those who want to:**\r\n\r\n* Boost app engagement and retention\r\n\r\n* Drive user acquisition at scale\r\n\r\n* Personalize the app experience for maximum impact\r\n\r\n## **Limited spots available \u2013 register now and secure your place!**\r\n\r\n## **Location** Startdock:\r\n\r\nKeizersgracht 482, Amsterdam. You are welcome from 16:00, Floor 1\r\n\r\n![]()\r\n\r\nSIGN UP USING: [https:\/\/apprilfestival.com\/sessions\/amsterdam-app-growth-experts\/](https:\/\/apprilfestival.com\/sessions\/amsterdam-app-growth-experts\/) ",
+                "price": "0",
+                "location_name": "StartDock Coworking Keizersgracht",
+                "location_address": "Keizersgracht 482, Amsterdam",
+                "icon": "",
+                "attendees": "2",
+                "latitude": "52.366333007812",
+                "longitude": "4.8852229118347"
+            },
+            {
                 "id": "mztcktygcgbgc",
                 "organizer": "Appsterdam",
                 "date": "20240424190000:20240424220000",
@@ -127,6 +183,20 @@
                 "attendees": "2",
                 "latitude": "52.365589141846",
                 "longitude": "4.8679780960083"
+            },
+            {
+                "id": "300091002",
+                "organizer": "Appsterdam",
+                "date": "20240425130000:20240425180000",
+                "name": "Partner Event (Appril): Simplify & Speed Up Your App Development with Mendix...",
+                "description": "**Discover the world of easy app development with Mendix: a great event for beginners and app enthusiasts**\r\n\r\n**Event Overview**\r\n\r\nJoin us for an exciting event about Mendix, a platform that\u2019s changing the way the world makes apps. Mendix makes building apps fast and easy, and it\u2019s perfect for anyone interested in app development, whether you\u2019re just starting out or are a seasoned developer. This event is the perfect opportunity to see what Mendix is all about, meet people who are experts in this field, and make an app yourself.\r\n\r\n**Why you should join**\r\n\r\nLearn how Mendix can make app development simpler and quicker from expert Mendix developers and our customers. Hear from a well-known Dutch company how they are using Mendix to do great things. Join a workshop where you\u2019ll create your own app with Mendix, with help from experienced instructors and experts in the Mendix community. Meet and chat with Mendix pros and others who love app development.\r\n\r\n**Agenda**\r\n\r\n**13:00 \u2013 What is Mendix?** \u2013 Andrej Koelewijn from Mendix will introduce you to Mendix and explain why it\u2019s so useful for making apps.\r\n\r\n**13:30 \u2013 Meet our Customer** \u2013 Hear from a company that has successfully used Mendix and learn from their experience.\r\n\r\n**14:45 \u2013 15-Minute Break** \u2013 Take a short break to relax and chat with others.\r\n\r\n**15:00 \u2013 Workshop:** Create Your First Mendix App \u2013 Thomas Keuter and Jonathan Diehl will guide you through making your first app using Mendix.\r\n\r\n**17:30 \u2013 Drinks &amp; Networking** \u2013 Finish the event with a friendly networking session over drinks. This event is more than just learning; it\u2019s a chance to join a community that\u2019s at the forefront of modern app development. Whether you want to improve your skills, explore a new way of making apps, or meet people who share your interests, this event is the perfect place to start. Come and start your app-making journey with Mendix!\r\n\r\n## Bring your laptop for the workshop part!\r\n\r\nSIGN UP USING: [https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/](https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/) ",
+                "price": "0",
+                "location_name": "Mendix",
+                "location_address": "Wilhelminakade 197, Rotterdam",
+                "icon": "",
+                "attendees": "2",
+                "latitude": "51.906631469727",
+                "longitude": "4.4883589744568"
             },
             {
                 "id": "vvlvhtygcgbkc",
