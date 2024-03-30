@@ -1,6 +1,6 @@
 [
     {
-        "JobID": "aa210e13af167c3b8153780de4ddece8",
+        "JobID": "34fcda7ff89cf5f9ca56e77720d998d8",
         "JobUrl": "https:\/\/appdevcon.nl\/job\/ios-developer-at-egeniq\/",
         "JobTitle": "ios developer at egeniq",
         "JobShortDescription": "ios developer at egeniq...",
@@ -12,7 +12,7 @@
         "JobCity": "Utrecht"
     },
     {
-        "JobID": "4a4313b5a352e837e3a85b4e98708af1",
+        "JobID": "d1f3f36eed2a565a706f73f98649df99",
         "JobUrl": "https:\/\/appdevcon.nl\/job\/android-developer-at-egeniq\/",
         "JobTitle": "android developer at egeniq",
         "JobShortDescription": "android developer at egeniq...",
@@ -58,48 +58,9 @@
         "JobCategory": [],
         "AlternativeJobCategory": [],
         "JobMatchCriteria": [],
-        "JobID": "393b87b51976b732c0c72d0e25a53e56",
+        "JobID": "28016f33e2a8cc1582b4da019648a5ad",
         "JobProvider": "The House Of Appril",
         "JobCity": "Leiden"
-    },
-    {
-        "JobId": "MIG00642",
-        "JobUrl": "https:\/\/www.thehouseofappril.com\/jobs\/job-android-developer-379513-31.html",
-        "JobTitle": "Android developer",
-        "JobShortDescription": "Is developing Kotlin apps your passion? Are you used to working with highly skilled co-workers? Let&#39;s connect!\r\n",
-        "JobDescription": "\r\nAs an app-developer you love to work on great apps, for big, international brands\r\nApps with interesting new features that help companies provide their service in new and innovative ways\r\nIn this role you&rsquo;ll work as Android developer at a company who takes the above at heart\r\nTogether with an experienced team of specialists you&rsquo;ll get the chance to work on a variety of innovative apps\r\nYou will work with supportive colleagues that are keen to exchange ideas, but you will also get enough freedom to do your work according to your own insights\r\n\r\n\r\n",
-        "JobCriteria": "\r\nIn order to be successful in this role, you will at least need the following:\r\n\r\nFunctional programming concepts\r\nGradle and multi-module projects\r\nArchitectural patterns &ndash; CLEAN, MVVM vs MVP\r\nAndroid architecture components\r\nKotlin + Kotlin ktx, Android Jetpack, Coroutines\r\nRest APls, JSON and serialized data\r\nAndroidX, Material Design, Theming + Styling views\r\nThe trade-offs when using third party libraries\r\n\r\nNote: The agencies we work with are looking for app builders who are in the possesion of a Dutch work permit &aacute;nd reside in The Netherlands\r\nUnfortunately, our clients do not work with people on a remote basis\r\n\r\n\r\n",
-        "JobSalaryBenefits": "\r\nYou will receive a competitive salary\r\n\r\nIn addition, our client offers a generous package of fringe benefits:\r\nExtensive vacation arrangement\r\nSpace for personal development\r\nThe latest hardware to work with\r\nReimbursement of travel expenses\r\n\r\nFor questions about this or the other vacancies, please contact Jacqueline , email: info@thehouseofappril\r\ncom or call: 020- 215 7446\r\nLove to help you with a new job\r\n\r\n",
-        "JobStartDate": "2024-01-29 19:09:55",
-        "JobPublishStartDate": "2024-01-29",
-        "JobPublishEndDate": "2024-03-29",
-        "JobLocation": {
-            "JobLocationAddress": [],
-            "JobLocationZipCode": [],
-            "JobLocationCity": "Amsterdam",
-            "JobLocationState": "NL_North_Holland",
-            "JobLocationCountry": "Netherlands",
-            "JobLocationGeoLatitude": [],
-            "JobLocationGeoLongitude": []
-        },
-        "JobCompany": {
-            "JobCompanyName": [],
-            "JobCompanyContact": {
-                "JobCompanyContactName": [],
-                "JobCompanyContactEmail": []
-            },
-            "JobCompanyProfile": "About our client, they are a team of innovative professionals who design, develop and release apps in The AppStore on multiple mobile platforms in Amsterdam. We build and create our own successful apps and for clients! Our team&nbsp;consists of app developers, backend , designers, testers and a product owners. We are with 40 mobile experts and have room for new developers.&nbsp;",
-            "JobCompanyCulture": "Hi there! We are The House of Appril, the only Dutch talent agency specialised in app professionals that helps you with great app development jobs in The Netherlands. We are Firmly rooted in the community and as organiser of the Appril Festival, something we have been doing since 2012! We support the Dutch app community and we have a large network of interesting companies. We provide you with plenty of guidance: online and offline, we support you with your resume, interview advice and our network. The House of Appril&#39;s unique approach helps you find your next job or gig."
-        },
-        "JobApplyURL": "https:\/\/www.thehouseofappril.com\/index.php\/page\/applicants\/command\/applyforjob\/vid\/379513\/bb\/1",
-        "JobApplyQuestions": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/getQuestions\/ouid\/Zbfp81vnyNM4Kdxu\/CurrentLanguage\/1",
-        "JobApplyPost": "https:\/\/www.thehouseofappril.com\/index.php\/page\/vacaturesnl\/command\/postAnswers\/ouid\/Zbfp81vnyNM4Kdxu\/CurrentLanguage\/1",
-        "JobCategory": [],
-        "AlternativeJobCategory": [],
-        "JobMatchCriteria": [],
-        "JobID": "277664eb06ad988c64f01a460465dcc0",
-        "JobProvider": "The House Of Appril",
-        "JobCity": "Amsterdam"
     },
     {
         "JobId": "MIG00640",
@@ -136,7 +97,7 @@
         "JobCategory": [],
         "AlternativeJobCategory": [],
         "JobMatchCriteria": [],
-        "JobID": "addc7e78ecebcf791317c0836f46cb64",
+        "JobID": "3bc82dc34b813561afa60770c087f810",
         "JobProvider": "The House Of Appril",
         "JobCity": "Den Haag"
     }
