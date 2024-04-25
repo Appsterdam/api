@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "300091002",
-                "organizer": "Appsterdam",
-                "date": "20240425130000:20240425180000",
-                "name": "Partner Event (Appril): Simplify & Speed Up Your App Development with Mendix...",
-                "description": "**Discover the world of easy app development with Mendix: a great event for beginners and app enthusiasts**\r\n\r\n**Event Overview**\r\n\r\nJoin us for an exciting event about Mendix, a platform that\u2019s changing the way the world makes apps. Mendix makes building apps fast and easy, and it\u2019s perfect for anyone interested in app development, whether you\u2019re just starting out or are a seasoned developer. This event is the perfect opportunity to see what Mendix is all about, meet people who are experts in this field, and make an app yourself.\r\n\r\n**Why you should join**\r\n\r\nLearn how Mendix can make app development simpler and quicker from expert Mendix developers and our customers. Hear from a well-known Dutch company how they are using Mendix to do great things. Join a workshop where you\u2019ll create your own app with Mendix, with help from experienced instructors and experts in the Mendix community. Meet and chat with Mendix pros and others who love app development.\r\n\r\n**Agenda**\r\n\r\n**13:00 \u2013 What is Mendix?** \u2013 Andrej Koelewijn from Mendix will introduce you to Mendix and explain why it\u2019s so useful for making apps.\r\n\r\n**13:30 \u2013 Meet our Customer** \u2013 Hear from a company that has successfully used Mendix and learn from their experience.\r\n\r\n**14:45 \u2013 15-Minute Break** \u2013 Take a short break to relax and chat with others.\r\n\r\n**15:00 \u2013 Workshop:** Create Your First Mendix App \u2013 Thomas Keuter and Jonathan Diehl will guide you through making your first app using Mendix.\r\n\r\n**17:30 \u2013 Drinks &amp; Networking** \u2013 Finish the event with a friendly networking session over drinks. This event is more than just learning; it\u2019s a chance to join a community that\u2019s at the forefront of modern app development. Whether you want to improve your skills, explore a new way of making apps, or meet people who share your interests, this event is the perfect place to start. Come and start your app-making journey with Mendix!\r\n\r\n## Bring your laptop for the workshop part!\r\n\r\nSIGN UP USING: [https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/](https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/) ",
-                "price": "0",
-                "location_name": "Mendix",
-                "location_address": "Wilhelminakade 197, Rotterdam",
-                "icon": "",
-                "attendees": "1",
-                "latitude": "51.906631469727",
-                "longitude": "4.4883589744568"
-            },
-            {
                 "id": "vvlvhtygcgbkc",
                 "organizer": "Appsterdam",
                 "date": "20240427093000:20240427113000",
@@ -141,12 +127,40 @@
                 "attendees": "2",
                 "latitude": "52.365589141846",
                 "longitude": "4.8679780960083"
+            },
+            {
+                "id": "vvlvhtygchbhc",
+                "organizer": "Appsterdam",
+                "date": "20240525093000:20240525113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "0",
+                "latitude": "52.367076873779",
+                "longitude": "4.8711910247803"
             }
         ]
     },
     {
         "name": "2024",
         "events": [
+            {
+                "id": "300091002",
+                "organizer": "Appsterdam",
+                "date": "20240425130000:20240425180000",
+                "name": "Partner Event (Appril): Simplify & Speed Up Your App Development with Mendix...",
+                "description": "**Discover the world of easy app development with Mendix: a great event for beginners and app enthusiasts**\r\n\r\n**Event Overview**\r\n\r\nJoin us for an exciting event about Mendix, a platform that\u2019s changing the way the world makes apps. Mendix makes building apps fast and easy, and it\u2019s perfect for anyone interested in app development, whether you\u2019re just starting out or are a seasoned developer. This event is the perfect opportunity to see what Mendix is all about, meet people who are experts in this field, and make an app yourself.\r\n\r\n**Why you should join**\r\n\r\nLearn how Mendix can make app development simpler and quicker from expert Mendix developers and our customers. Hear from a well-known Dutch company how they are using Mendix to do great things. Join a workshop where you\u2019ll create your own app with Mendix, with help from experienced instructors and experts in the Mendix community. Meet and chat with Mendix pros and others who love app development.\r\n\r\n**Agenda**\r\n\r\n**13:00 \u2013 What is Mendix?** \u2013 Andrej Koelewijn from Mendix will introduce you to Mendix and explain why it\u2019s so useful for making apps.\r\n\r\n**13:30 \u2013 Meet our Customer** \u2013 Hear from a company that has successfully used Mendix and learn from their experience.\r\n\r\n**14:45 \u2013 15-Minute Break** \u2013 Take a short break to relax and chat with others.\r\n\r\n**15:00 \u2013 Workshop:** Create Your First Mendix App \u2013 Thomas Keuter and Jonathan Diehl will guide you through making your first app using Mendix.\r\n\r\n**17:30 \u2013 Drinks &amp; Networking** \u2013 Finish the event with a friendly networking session over drinks. This event is more than just learning; it\u2019s a chance to join a community that\u2019s at the forefront of modern app development. Whether you want to improve your skills, explore a new way of making apps, or meet people who share your interests, this event is the perfect place to start. Come and start your app-making journey with Mendix!\r\n\r\n## Bring your laptop for the workshop part!\r\n\r\nSIGN UP USING: [https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/](https:\/\/apprilfestival.com\/sessions\/simplify-speed-up-your-app-development-with-mendix-low-code\/) ",
+                "price": "0",
+                "location_name": "Mendix",
+                "location_address": "Wilhelminakade 197, Rotterdam",
+                "icon": "",
+                "attendees": "1",
+                "latitude": "51.906631469727",
+                "longitude": "4.4883589744568"
+            },
             {
                 "id": "mztcktygcgbgc",
                 "organizer": "Appsterdam",
