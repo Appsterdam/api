@@ -26,7 +26,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "5",
+                "attendees": "6",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
@@ -68,7 +68,7 @@
                 "location_name": "Zuiderzeemuseum",
                 "location_address": "Wierdijk 12 - 22, Enkhuizen",
                 "icon": "hands.sparkles",
-                "attendees": "3",
+                "attendees": "4",
                 "latitude": "52.704803466797",
                 "longitude": "5.2977070808411"
             },
