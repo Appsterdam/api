@@ -3,34 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "vvlvhtygchbpb",
-                "organizer": "Appsterdam",
-                "date": "20240511093000:20240511113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "5",
-                "latitude": "52.367076873779",
-                "longitude": "4.8711910247803"
-            },
-            {
-                "id": "298103718",
-                "organizer": "Appsterdam",
-                "date": "20240511130000:20240511170000",
-                "name": "Weekend Fun: Zuiderzeemuseum",
-                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Zuiderzeemuseum](https:\/\/www.zuiderzeemuseum.nl\/?lang=en)\r\n\r\nPricing: \u20ac 18,00 (a separate ticket is required)\r\n\r\n**Schedule:**\r\n\r\n\u2022 (optional) We leave from Amsterdam Centraal [11:53 by train](https:\/\/www.ns.nl\/rpx?ctx=arnu%7CfromStation%3D8400058%7CtoLocation%3D52.704804%2C5.297706%7CdestinationName%3DZuiderzeemuseum%7CplannedFromTime%3D2024-05-11T11%3A53%3A00%2B02%3A00%7CplannedArrivalTime%3D2024-05-11T13%3A08%3A00%2B02%3A00%7CexcludeHighSpeedTrains%3Dfalse%7CsearchForAccessibleTrip%3Dfalse%7ClocalTrainsOnly%3Dfalse%7CtravelAssistance%3Dfalse%7CtripSummaryHash%3D2417953461&amp;destinationName=Zuiderzeemuseum)\r\n\r\n\u2022 We'll gather at **the Train Station** (Stationsplein 2, 1601EN *Enkhuizen)* at **13:08**. (or the closest time the train will arrive from Amsterdam Centraal)\r\n\r\n\u2022 We'll go by ferry from the train station to the Museum\r\n\r\n**Contact information:**\r\n\r\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\r\n\r\n\u2022 Wesley, [@0xWDG](http:\/\/twitter.com\/0xWDG\/) (twitter)\r\n\r\n\u2022 Jake, [@jake_ruston](http:\/\/twitter.com\/jake_ruston\/) (twitter)\r\n\r\n\u2022 Whatsapp Group: [https:\/\/chat.whatsapp.com\/Hn5v7ojB1wG7TDaIG8NpoK](https:\/\/chat.whatsapp.com\/Hn5v7ojB1wG7TDaIG8NpoK)\r\n\r\n**Getting there:**\r\n\r\nWierdijk 12-22, 1601 LA Enkhuizen\r\n\r\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=r), ([Car](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=d), please see [https:\/\/www.zuiderzeemuseum.nl\/en\/page\/347\/how-to-find-us-and-parking](https:\/\/www.zuiderzeemuseum.nl\/en\/page\/347\/how-to-find-us-and-parking))\r\n\r\nWe hope to see you there!\r\n\r\nMore about Weekend Fun:\r\n\r\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more. ",
-                "price": "0",
-                "location_name": "Zuiderzeemuseum",
-                "location_address": "Wierdijk 12 - 22, Enkhuizen",
-                "icon": "hands.sparkles",
-                "attendees": "6",
-                "latitude": "52.704803466797",
-                "longitude": "5.2977070808411"
-            },
-            {
                 "id": "mztcktygchbtb",
                 "organizer": "Appsterdam",
                 "date": "20240515190000:20240515220000",
@@ -161,6 +133,34 @@
     {
         "name": "2024",
         "events": [
+            {
+                "id": "298103718",
+                "organizer": "Appsterdam",
+                "date": "20240511130000:20240511170000",
+                "name": "Weekend Fun: Zuiderzeemuseum",
+                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Zuiderzeemuseum](https:\/\/www.zuiderzeemuseum.nl\/?lang=en)\r\n\r\nPricing: \u20ac 18,00 (a separate ticket is required)\r\n\r\n**Schedule:**\r\n\r\n\u2022 (optional) We leave from Amsterdam Centraal [11:53 by train](https:\/\/www.ns.nl\/rpx?ctx=arnu%7CfromStation%3D8400058%7CtoLocation%3D52.704804%2C5.297706%7CdestinationName%3DZuiderzeemuseum%7CplannedFromTime%3D2024-05-11T11%3A53%3A00%2B02%3A00%7CplannedArrivalTime%3D2024-05-11T13%3A08%3A00%2B02%3A00%7CexcludeHighSpeedTrains%3Dfalse%7CsearchForAccessibleTrip%3Dfalse%7ClocalTrainsOnly%3Dfalse%7CtravelAssistance%3Dfalse%7CtripSummaryHash%3D2417953461&amp;destinationName=Zuiderzeemuseum)\r\n\r\n\u2022 We'll gather at **the Train Station** (Stationsplein 2, 1601EN *Enkhuizen)* at **13:08**. (or the closest time the train will arrive from Amsterdam Centraal)\r\n\r\n\u2022 We'll go by ferry from the train station to the Museum\r\n\r\n**Contact information:**\r\n\r\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\r\n\r\n\u2022 Wesley, [@0xWDG](http:\/\/twitter.com\/0xWDG\/) (twitter)\r\n\r\n\u2022 Jake, [@jake_ruston](http:\/\/twitter.com\/jake_ruston\/) (twitter)\r\n\r\n\u2022 Whatsapp Group: [https:\/\/chat.whatsapp.com\/Hn5v7ojB1wG7TDaIG8NpoK](https:\/\/chat.whatsapp.com\/Hn5v7ojB1wG7TDaIG8NpoK)\r\n\r\n**Getting there:**\r\n\r\nWierdijk 12-22, 1601 LA Enkhuizen\r\n\r\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=r), ([Car](http:\/\/maps.apple.com\/?daddr=Wierdijk%2012-22%2C%201601%20LA%20Enkhuizen&amp;t=m&amp;dirflg=d), please see [https:\/\/www.zuiderzeemuseum.nl\/en\/page\/347\/how-to-find-us-and-parking](https:\/\/www.zuiderzeemuseum.nl\/en\/page\/347\/how-to-find-us-and-parking))\r\n\r\nWe hope to see you there!\r\n\r\nMore about Weekend Fun:\r\n\r\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more. ",
+                "price": "0",
+                "location_name": "Zuiderzeemuseum",
+                "location_address": "Wierdijk 12 - 22, Enkhuizen",
+                "icon": "hands.sparkles",
+                "attendees": "6",
+                "latitude": "52.704803466797",
+                "longitude": "5.2977070808411"
+            },
+            {
+                "id": "vvlvhtygchbpb",
+                "organizer": "Appsterdam",
+                "date": "20240511093000:20240511113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "5",
+                "latitude": "52.367076873779",
+                "longitude": "4.8711910247803"
+            },
             {
                 "id": "mztcktygchblb",
                 "organizer": "Appsterdam",
