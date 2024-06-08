@@ -3,34 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "vvlvhtygcjblb",
-                "organizer": "Appsterdam",
-                "date": "20240608093000:20240608113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "3",
-                "latitude": "52.367076873779",
-                "longitude": "4.8711910247803"
-            },
-            {
-                "id": "298103735",
-                "organizer": "Appsterdam",
-                "date": "20240608130000:20240608170000",
-                "name": "Weekend Fun: Artis",
-                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Artis](https:\/\/www.artis.nl\/en\/)\r\n\r\nPricing: \u20ac\u00a026,50\r\n\r\n**Schedule:**\r\n\r\n\u2022 We'll gather in front of **Artis** at 12:45 (we\u2019ll enter at 13:00)\r\n\r\n**Contact information:**\r\n\r\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\r\n\r\n\u2022 Wesley, [@0xWDG](http:\/\/twitter.com\/0xWDG\/) (twitter)\r\n\r\n\u2022 Jake, [@jake_ruston](http:\/\/twitter.com\/jake_ruston\/) (twitter)\r\n\r\n\u2022 Discord group [https:\/\/discord.gg\/G2VN29kmMc](https:\/\/discord.gg\/G2VN29kmMc)\r\n\r\n**Getting there:**\r\n\r\nPlantage Kerklaan 38-40, Amsterdam\r\n\r\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=d)\r\n\r\nTram: 14 (Artis), 19, (Alexanderplein), 17 (Alexanderplein)\r\n\r\nBus: 43 (Kadijksplein)\r\n\r\nCar: Parking spots available (\u20ac 15)\r\n\r\nWe hope to see you there!\r\n\r\nMore about Weekend Fun:\r\n\r\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more. ",
-                "price": "0",
-                "location_name": "ARTIS",
-                "location_address": "Plantage Kerklaan 38-40, Amsterdam",
-                "icon": "hands.sparkles",
-                "attendees": "3",
-                "latitude": "52.36600112915",
-                "longitude": "4.9165320396423"
-            },
-            {
                 "id": "mztcktygcjbqb",
                 "organizer": "Appsterdam",
                 "date": "20240612190000:20240612220000",
@@ -147,6 +119,34 @@
     {
         "name": "2024",
         "events": [
+            {
+                "id": "298103735",
+                "organizer": "Appsterdam",
+                "date": "20240608130000:20240608170000",
+                "name": "Weekend Fun: Artis",
+                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Artis](https:\/\/www.artis.nl\/en\/)\r\n\r\nPricing: \u20ac\u00a026,50\r\n\r\n**Schedule:**\r\n\r\n\u2022 We'll gather in front of **Artis** at 12:45 (we\u2019ll enter at 13:00)\r\n\r\n**Contact information:**\r\n\r\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\r\n\r\n\u2022 Wesley, [@0xWDG](http:\/\/twitter.com\/0xWDG\/) (twitter)\r\n\r\n\u2022 Jake, [@jake_ruston](http:\/\/twitter.com\/jake_ruston\/) (twitter)\r\n\r\n\u2022 Discord group [https:\/\/discord.gg\/G2VN29kmMc](https:\/\/discord.gg\/G2VN29kmMc)\r\n\r\n**Getting there:**\r\n\r\nPlantage Kerklaan 38-40, Amsterdam\r\n\r\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Plantage%20Kerklaan%2038-40%2C%20Amsterdam&amp;amp;t=m&amp;amp;dirflg=d)\r\n\r\nTram: 14 (Artis), 19, (Alexanderplein), 17 (Alexanderplein)\r\n\r\nBus: 43 (Kadijksplein)\r\n\r\nCar: Parking spots available (\u20ac 15)\r\n\r\nWe hope to see you there!\r\n\r\nMore about Weekend Fun:\r\n\r\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more. ",
+                "price": "0",
+                "location_name": "ARTIS",
+                "location_address": "Plantage Kerklaan 38-40, Amsterdam",
+                "icon": "hands.sparkles",
+                "attendees": "3",
+                "latitude": "52.36600112915",
+                "longitude": "4.9165320396423"
+            },
+            {
+                "id": "vvlvhtygcjblb",
+                "organizer": "Appsterdam",
+                "date": "20240608093000:20240608113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "3",
+                "latitude": "52.367076873779",
+                "longitude": "4.8711910247803"
+            },
             {
                 "id": "mztcktygcjbhb",
                 "organizer": "Appsterdam",
