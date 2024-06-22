@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "vvlvhtygcjbdc",
-                "organizer": "Appsterdam",
-                "date": "20240622093000:20240622113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "4",
-                "latitude": "52.367076873779",
-                "longitude": "4.8711910247803"
-            },
-            {
                 "id": "mztcktygcjbjc",
                 "organizer": "Appsterdam",
                 "date": "20240626190000:20240626220000",
@@ -133,6 +119,20 @@
     {
         "name": "2024",
         "events": [
+            {
+                "id": "vvlvhtygcjbdc",
+                "organizer": "Appsterdam",
+                "date": "20240622093000:20240622113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "4",
+                "latitude": "52.367076873779",
+                "longitude": "4.8711910247803"
+            },
             {
                 "id": "mztcktygcjbzb",
                 "organizer": "Appsterdam",
