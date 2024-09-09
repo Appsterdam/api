@@ -141,6 +141,20 @@
                 "attendees": "4",
                 "latitude": "52.472885131836",
                 "longitude": "4.8218541145325"
+            },
+            {
+                "id": "mztcktygcnbmb",
+                "organizer": "Appsterdam",
+                "date": "20241009190000:20241009220000",
+                "name": "Weekly Meeten en Drinken",
+                "description": "",
+                "price": "0",
+                "location_name": "Cafe Bax",
+                "location_address": "Ten Katestraat 119, Amsterdam",
+                "icon": "\ud83c\udf7a",
+                "attendees": "1",
+                "latitude": "52.365589141846",
+                "longitude": "4.8679780960083"
             }
         ]
     },
