@@ -68,7 +68,7 @@
                 "location_name": "Blast Galaxy",
                 "location_address": "Magneetstraat 5, Amsterdam",
                 "icon": "hands.sparkles",
-                "attendees": "5",
+                "attendees": "4",
                 "latitude": "52.390174865723",
                 "longitude": "4.8538999557495"
             },
@@ -96,7 +96,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "0",
+                "attendees": "2",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
