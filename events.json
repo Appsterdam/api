@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "303314864",
-                "organizer": "Appsterdam",
-                "date": "20241013103000:20241013170000",
-                "name": "Day trip: Explore the Universe at the Dwingeloo Radio Telescope",
-                "description": "\ud83d\ude80 **A step closer to the universe**\r\n\r\nOn Sunday, October 13, 2024, we\u2019re organizing a day trip with a luxury mini-bus from **Amsterdam** to the **Dwingeloo Radio Telescope**\u2014a national monument and still an active center in radio astronomy today. When built in[masked], it was the worlds largest radio telescope with a 25-meter diameter. Today, the telescope is managed by volunteers from the **CAMRAS foundation** (C.A. Muller Radio Astronomy Station) and it is fully up to date. Several volunteers work professionally in astronomy and space science, such as at **ASTRON**, the Netherlands Institute for Radio Astronomy. They develop innovative technologies like the LOFAR telescope and conduct fundamental astronomical research. CAMRAS participated in the **Artemis 1** mission and will be in **Artemis 2**. The CAMRAS radio telescope is located on the ASTRON-terrain, in a radio-quiet nature reserve which normally is only accessible by foot or bike (we have a parking waiver). This day is organized by Martinus Meiborg, co-founder of Appsterdam, who has recently become a telescope operator at CAMRAS and also happens to be our fully licensed bus driver.\r\n\r\n\ud83d\udce1 **What can you expect?**\r\n\r\nIn the rotating observation room of the radio telescope, you\u2019ll gain insight into the incomprehensible dimensions and aspects of the universe, guided by a scientific software engineer and guide who works in astronomy every day. Expect to dive into cutting-edge technology, clearly explained, with hands-on experiences:\r\n\r\n* **Listen to pulsars**: The rhythmic signals of dead stars that spin around their axis in under a second.\r\n\r\n* **Watch the universe expanding**: Learn how hydrogen radio frequencies reveal that the universe is continuously expanding and in motion.\r\n\r\n* **Track satellites**: Witness how the 130-ton telescope tracks satellites passing overhead at high speeds.\r\n\r\n* **Success stories**: Learn how CAMRAS volunteers downloaded images from a Chinese lunar satellite, showing Earth rising from the moon's horizon.\r\n\r\n* **Earth-Moon-Earth communication**: Discover how to send and receive radio signals via the Moon\u2014one of Dwingeloo\u2019s expertise.\r\n\r\n* **Q&amp;A and more**: Enjoy a guided tour of the telescope\u2019s components and explanations about its operations. You\u2019ll have the chance to ask questions about telescope software, such as coordinate systems and digital signal processing. You\u2019ll also learn about CAMRAS\u2019 open-source and data projects that you can get involved in. Be amazed by the technology that makes radioastronomy work.\r\n\r\n\ud83c\udf0d **Why join?**\r\n\r\nAppsterdam connects people, communities and disciplines. Technology is revolutionizing our daily lives and work. Astronomy and space exploration were at the origin of many discoveries we take for granted today: Wifi is a direct a result of radio astronomy and collaboration between medics and radio astronomers resulted better and sharper MRI scans. Astronomy is leading in data and signal processing, satellite communication and software solutions, not to mention our insight in the universe of today.\r\n\r\nThis is a unique opportunity not only to learn but also to be inspired by the incomprehensible dimensions of our universe. Whether you\u2019re working on mobile apps, machine learning, or data processing, you\u2019ll gain new insights.\r\n\r\n\ud83d\ude8c **Day details**\r\n\r\n* **Date**: Sunday, October 13, 2024\r\n\r\n* **Departure**: 10:30 AM from Amsterdam, at a location to be announced, in a luxury mini-bus with a maximum of 20 participants.\r\n\r\n* **Program**: Bus ride including demonstrations in the telescope\u2019s observation room, a guided tour of the telescope\u2019s components, Q&amp;A, and more.\r\n\r\n* **Lunch**: Bring your own lunch. Upon arrival, we\u2019ll eat at the Muller House, the former director\u2019s residence on the ASTRON grounds, in the shadow of the radio telescope. We\u2019ll provide soft drinks and juices. Afterward, the tour and demonstrations will begin.\r\n\r\n* **Return**: Late afternoon in Amsterdam, full of new knowledge and inspiration.\r\n\r\n* **Cost**: \u20ac47.50 per person (public transport would already be \u20ac30). Register below and use [this 'Tikkie'-link](https:\/\/tikkie.me\/pay\/StichtingAp\/t8A9bAinUm6kXJekJYUqrr) for your payment.\r\n\r\n\ud83c\udf9f\ufe0f **Sign up now!**\r\n\r\nThere are 20 spots available! This trip is for Appsterdammers and all individuals interested in astronomy. You can bring up to two friends or colleagues. Register now and experience a day where (radio) astronomy and learning come together in a rememberable day.\r\n\r\nYou will receive trip details by email, such as the pickup point in Amsterdam.\r\n\r\n\u2753**Any questions**\u2753\r\n\r\nStart a conversation below! ",
-                "price": "48",
-                "location_name": "Dwingeloo Radiotelescoop",
-                "location_address": "Oude Hoogeveensedijk 4 , Dwingeloo",
-                "icon": "",
-                "attendees": "6",
-                "latitude": "52.812099456787",
-                "longitude": "6.3964018821716"
-            },
-            {
                 "id": "xrsmntygcnbvb",
                 "organizer": "Appsterdam",
                 "date": "20241016190000:20241016220000",
@@ -124,7 +110,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "0",
+                "attendees": "2",
                 "latitude": "52.367076873779",
                 "longitude": "4.8711910247803"
             },
@@ -169,12 +155,40 @@
                 "attendees": "3",
                 "latitude": "52.099666595459",
                 "longitude": "4.2970299720764"
+            },
+            {
+                "id": "xrsmntygcpbrb",
+                "organizer": "Appsterdam",
+                "date": "20241113190000:20241113220000",
+                "name": "Weekly Meeten en Drinken",
+                "description": "Ahoy, fellow Appsterdammers!\r\n\r\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\r\n\r\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules \u2014 something many App Makers will understand!\r\n\r\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\r\n\r\nBe sure to ask the waitress\/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat\/drink. Then sit back and enjoy the company of your peers.\r\n\r\nThe day is always Wednesday. The place is always [Caf\u00e9 Bax](http:\/\/www.cafebax.nl\/). The time, for now, is 19:00.\r\n\r\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! ",
+                "price": "0",
+                "location_name": "Cafe Bax",
+                "location_address": "Ten Katestraat 119, Amsterdam",
+                "icon": "\ud83c\udf7a",
+                "attendees": "5",
+                "latitude": "52.365589141846",
+                "longitude": "4.8679780960083"
             }
         ]
     },
     {
         "name": "2024",
         "events": [
+            {
+                "id": "303314864",
+                "organizer": "Appsterdam",
+                "date": "20241013103000:20241013170000",
+                "name": "Day trip: Explore the Universe at the Dwingeloo Radio Telescope",
+                "description": "\ud83d\ude80 **A step closer to the universe**\r\n\r\nOn Sunday, October 13, 2024, we\u2019re organizing a day trip with a luxury mini-bus from **Amsterdam** to the **Dwingeloo Radio Telescope**\u2014a national monument and still an active center in radio astronomy today. When built in[masked], it was the worlds largest radio telescope with a 25-meter diameter. Today, the telescope is managed by volunteers from the **CAMRAS foundation** (C.A. Muller Radio Astronomy Station) and it is fully up to date. Several volunteers work professionally in astronomy and space science, such as at **ASTRON**, the Netherlands Institute for Radio Astronomy. They develop innovative technologies like the LOFAR telescope and conduct fundamental astronomical research. CAMRAS participated in the **Artemis 1** mission and will be in **Artemis 2**. The CAMRAS radio telescope is located on the ASTRON-terrain, in a radio-quiet nature reserve which normally is only accessible by foot or bike (we have a parking waiver). This day is organized by Martinus Meiborg, co-founder of Appsterdam, who has recently become a telescope operator at CAMRAS and also happens to be our fully licensed bus driver.\r\n\r\n\ud83d\udce1 **What can you expect?**\r\n\r\nIn the rotating observation room of the radio telescope, you\u2019ll gain insight into the incomprehensible dimensions and aspects of the universe, guided by a scientific software engineer and guide who works in astronomy every day. Expect to dive into cutting-edge technology, clearly explained, with hands-on experiences:\r\n\r\n* **Listen to pulsars**: The rhythmic signals of dead stars that spin around their axis in under a second.\r\n\r\n* **Watch the universe expanding**: Learn how hydrogen radio frequencies reveal that the universe is continuously expanding and in motion.\r\n\r\n* **Track satellites**: Witness how the 130-ton telescope tracks satellites passing overhead at high speeds.\r\n\r\n* **Success stories**: Learn how CAMRAS volunteers downloaded images from a Chinese lunar satellite, showing Earth rising from the moon's horizon.\r\n\r\n* **Earth-Moon-Earth communication**: Discover how to send and receive radio signals via the Moon\u2014one of Dwingeloo\u2019s expertise.\r\n\r\n* **Q&amp;A and more**: Enjoy a guided tour of the telescope\u2019s components and explanations about its operations. You\u2019ll have the chance to ask questions about telescope software, such as coordinate systems and digital signal processing. You\u2019ll also learn about CAMRAS\u2019 open-source and data projects that you can get involved in. Be amazed by the technology that makes radioastronomy work.\r\n\r\n\ud83c\udf0d **Why join?**\r\n\r\nAppsterdam connects people, communities and disciplines. Technology is revolutionizing our daily lives and work. Astronomy and space exploration were at the origin of many discoveries we take for granted today: Wifi is a direct a result of radio astronomy and collaboration between medics and radio astronomers resulted better and sharper MRI scans. Astronomy is leading in data and signal processing, satellite communication and software solutions, not to mention our insight in the universe of today.\r\n\r\nThis is a unique opportunity not only to learn but also to be inspired by the incomprehensible dimensions of our universe. Whether you\u2019re working on mobile apps, machine learning, or data processing, you\u2019ll gain new insights.\r\n\r\n\ud83d\ude8c **Day details**\r\n\r\n* **Date**: Sunday, October 13, 2024\r\n\r\n* **Departure**: 10:30 AM from Amsterdam, at a location to be announced, in a luxury mini-bus with a maximum of 20 participants.\r\n\r\n* **Program**: Bus ride including demonstrations in the telescope\u2019s observation room, a guided tour of the telescope\u2019s components, Q&amp;A, and more.\r\n\r\n* **Lunch**: Bring your own lunch. Upon arrival, we\u2019ll eat at the Muller House, the former director\u2019s residence on the ASTRON grounds, in the shadow of the radio telescope. We\u2019ll provide soft drinks and juices. Afterward, the tour and demonstrations will begin.\r\n\r\n* **Return**: Late afternoon in Amsterdam, full of new knowledge and inspiration.\r\n\r\n* **Cost**: \u20ac47.50 per person (public transport would already be \u20ac30). Register below and use [this 'Tikkie'-link](https:\/\/tikkie.me\/pay\/StichtingAp\/t8A9bAinUm6kXJekJYUqrr) for your payment.\r\n\r\n\ud83c\udf9f\ufe0f **Sign up now!**\r\n\r\nThere are 20 spots available! This trip is for Appsterdammers and all individuals interested in astronomy. You can bring up to two friends or colleagues. Register now and experience a day where (radio) astronomy and learning come together in a rememberable day.\r\n\r\nYou will receive trip details by email, such as the pickup point in Amsterdam.\r\n\r\n\u2753**Any questions**\u2753\r\n\r\nStart a conversation below! ",
+                "price": "48",
+                "location_name": "Dwingeloo Radiotelescoop",
+                "location_address": "Oude Hoogeveensedijk 4 , Dwingeloo",
+                "icon": "",
+                "attendees": "6",
+                "latitude": "52.812099456787",
+                "longitude": "6.3964018821716"
+            },
             {
                 "id": "vvlvhtygcnbqb",
                 "organizer": "Appsterdam",
