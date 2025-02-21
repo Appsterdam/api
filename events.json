@@ -26,7 +26,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "3",
                 "latitude": "52.365589141846",
                 "longitude": "4.8679780960083"
             },
@@ -113,6 +113,20 @@
                 "attendees": "0",
                 "latitude": "52.365589141846",
                 "longitude": "4.8679780960083"
+            },
+            {
+                "id": "305899084",
+                "organizer": "Appsterdam",
+                "date": "20250321083000:20250321180000",
+                "name": "Appsterdam @ AppDevCon 2025",
+                "description": "Join Appsterdam at AppDevCon 2025. Just like previous editions, we will be on-site and have our community corner.\r\n\r\nPlease note [a separate ticket is necessary which can be purchased here](https:\/\/egeniq.paydro.com\/appdevcon-2025). Let us know if you're intending to join by RSVP-ing right here on meetup.\r\n\r\nWe have received a nice discount code 5% for this year's edition (**appsterdamadc25**).\r\n\r\n[More info on AppDevCon on their website](https:\/\/appdevcon.nl\/).\r\n\r\nIf you want to keep in contact with other Appsterdammers during this event, you van join our [WhatsApp Group](https:\/\/chat.whatsapp.com\/BUAxFmdaKvP41k5ovdOGC0) ",
+                "price": "0",
+                "location_name": "Path\u00e9 Amsterdam Noord",
+                "location_address": "Buikslotermeerplein 2003, Amsterdam",
+                "icon": "",
+                "attendees": "7",
+                "latitude": "52.401008605957",
+                "longitude": "4.9347109794617"
             }
         ]
     },
