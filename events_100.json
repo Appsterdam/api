@@ -26,7 +26,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "5",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -40,7 +40,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "2",
+                "attendees": "4",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -54,7 +54,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "1",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -68,7 +68,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "2",
+                "attendees": "4",
                 "latitude": "0",
                 "longitude": "0"
             }
@@ -87,7 +87,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "2",
+                "attendees": "5",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -115,7 +115,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "6",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -143,7 +143,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "2",
+                "attendees": "6",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -171,7 +171,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "3",
                 "latitude": "0",
                 "longitude": "0"
             },
