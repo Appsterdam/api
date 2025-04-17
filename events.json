@@ -43,6 +43,20 @@
                 "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
+            },
+            {
+                "id": "307023211",
+                "organizer": "Wesley de Groot, Jake",
+                "date": "20250427130000:20250427160000",
+                "name": "Weekend Fun: Fabrique des Lumi\u00e8res",
+                "description": "What would be a better way to spend your Sunday than getting together with Appsterdammers, their friends and families to visit [Fabrique des Lumi\u00e8res](https:\/\/www.fabrique-lumieres.com\/en\/)\n\nPricing: \u20ac 18.00\n\n**Schedule:**\n\u2022 We'll gather in front of **Fabrique des Lumi\u00e8res** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nPazzanistraat 37, 1014 DB Amsterdam\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=d)\n\nWe hope to see you there!\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
+                "price": "0",
+                "location_name": "Fabrique des Lumi\u00e8res",
+                "location_address": "Pazzanistraat 37, Amsterdam",
+                "icon": "hands.sparkles",
+                "attendees": "3",
+                "latitude": "0",
+                "longitude": "0"
             }
         ]
     },
