@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "307023211",
-                "organizer": "Wesley de Groot, Jake",
-                "date": "20250427130000:20250427160000",
-                "name": "Weekend Fun: Fabrique des Lumi\u00e8res",
-                "description": "What would be a better way to spend your Sunday than getting together with Appsterdammers, their friends and families to visit [Fabrique des Lumi\u00e8res](https:\/\/www.fabrique-lumieres.com\/en\/)\n\nPricing: \u20ac 18.00\n\n**Schedule:**\n\u2022 We'll gather in front of **Fabrique des Lumi\u00e8res** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nPazzanistraat 37, 1014 DB Amsterdam\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=d)\n\nWe hope to see you there!\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
-                "price": "0",
-                "location_name": "Fabrique des Lumi\u00e8res",
-                "location_address": "Pazzanistraat 37, Amsterdam",
-                "icon": "hands.sparkles",
-                "attendees": "4",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "306404729",
                 "organizer": "Wesley de Groot",
                 "date": "20250430190000:20250430220000",
@@ -40,7 +26,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "3",
+                "attendees": "4",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -57,12 +43,40 @@
                 "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
+            },
+            {
+                "id": "307382118",
+                "organizer": "D\u00e1niel Varga, Maike Warner",
+                "date": "20250510093000:20250510113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "2",
+                "latitude": "0",
+                "longitude": "0"
             }
         ]
     },
     {
         "name": "2025",
         "events": [
+            {
+                "id": "307023211",
+                "organizer": "Wesley de Groot, Jake",
+                "date": "20250427130000:20250427160000",
+                "name": "Weekend Fun: Fabrique des Lumi\u00e8res",
+                "description": "What would be a better way to spend your Sunday than getting together with Appsterdammers, their friends and families to visit [Fabrique des Lumi\u00e8res](https:\/\/www.fabrique-lumieres.com\/en\/)\n\nPricing: \u20ac 18.00\n\n**Schedule:**\n\u2022 We'll gather in front of **Fabrique des Lumi\u00e8res** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nPazzanistraat 37, 1014 DB Amsterdam\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Pazzanistraat%2037%2C%201014%20DB%20Amsterdam&t=m&dirflg=d)\n\nWe hope to see you there!\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
+                "price": "0",
+                "location_name": "Fabrique des Lumi\u00e8res",
+                "location_address": "Pazzanistraat 37, Amsterdam",
+                "icon": "hands.sparkles",
+                "attendees": "4",
+                "latitude": "0",
+                "longitude": "0"
+            },
             {
                 "id": "307137018",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
