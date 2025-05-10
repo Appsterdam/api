@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "307382118",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20250510093000:20250510113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "6",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "306404734",
                 "organizer": "Wesley de Groot",
                 "date": "20250514190000:20250514220000",
@@ -57,12 +43,40 @@
                 "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
+            },
+            {
+                "id": "307633595",
+                "organizer": "D\u00e1niel Varga, Maike Warner",
+                "date": "20250524093000:20250524113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "2",
+                "latitude": "0",
+                "longitude": "0"
             }
         ]
     },
     {
         "name": "2025",
         "events": [
+            {
+                "id": "307382118",
+                "organizer": "D\u00e1niel Varga, Maike Warner",
+                "date": "20250510093000:20250510113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "6",
+                "latitude": "0",
+                "longitude": "0"
+            },
             {
                 "id": "306404731",
                 "organizer": "Wesley de Groot",
