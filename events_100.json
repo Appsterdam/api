@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "306405112",
-                "organizer": "Unknown, Jake",
-                "date": "20250806190000:20250806220000",
-                "name": "Weekly Meeten en Drinken",
-                "description": "",
-                "price": "0",
-                "location_name": "Cafe Bax",
-                "location_address": "Ten Katestraat 119, Amsterdam",
-                "icon": "\ud83c\udf7a",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "308960875",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20250809093000:20250809113000",
@@ -63,6 +49,20 @@
     {
         "name": "2025",
         "events": [
+            {
+                "id": "306405112",
+                "organizer": "Unknown, Jake",
+                "date": "20250806190000:20250806220000",
+                "name": "Weekly Meeten en Drinken",
+                "description": "",
+                "price": "0",
+                "location_name": "Cafe Bax",
+                "location_address": "Ten Katestraat 119, Amsterdam",
+                "icon": "\ud83c\udf7a",
+                "attendees": "2",
+                "latitude": "0",
+                "longitude": "0"
+            },
             {
                 "id": "308960872",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
