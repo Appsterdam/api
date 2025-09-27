@@ -1,6 +1,10 @@
 [
     {
         "name": "Upcoming",
+        "events": []
+    },
+    {
+        "name": "2025",
         "events": [
             {
                 "id": "310602560",
@@ -15,12 +19,7 @@
                 "attendees": "3",
                 "latitude": "0",
                 "longitude": "0"
-            }
-        ]
-    },
-    {
-        "name": "2025",
-        "events": [
+            },
             {
                 "id": "306405128",
                 "organizer": "Wesley de Groot",
