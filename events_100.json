@@ -12,7 +12,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": "6",
+                "attendees": "7",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -26,7 +26,7 @@
                 "location_name": "Da Vinci Creatieve Ruimtes",
                 "location_address": "Nieuwpoortkade 2A, 1055 RX Amsterdam, Amsterdam",
                 "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
-                "attendees": "45",
+                "attendees": "46",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -40,7 +40,7 @@
                 "location_name": "Cafe Bax",
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
-                "attendees": "2",
+                "attendees": "3",
                 "latitude": "0",
                 "longitude": "0"
             },
