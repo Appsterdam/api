@@ -101,6 +101,15 @@
             "team": "Weekly Meeten en Drinken",
             "members": [
                 {
+                    "name": "Wesley de Groot",
+                    "picture": "https:\/\/appsterdam.rs\/wp-content\/uploads\/2025\/10\/IMG_1968-scaled.jpg",
+                    "function": "Weekend Fun organizer",
+                    "twitter": "0xWDG",
+                    "linkedin": "0xwdg",
+                    "website": "https:\/\/wesleydegroot.nl\/",
+                    "bio": "I have a demonstrated history of working in the development and electronic industry. Skilled in Software Development, Web Development and Electrical engineering, I support the tech community Appsterdam, mentor aspiring developers and contribute to open-source projects."
+                },
+                {
                     "name": "Mike Lee",
                     "picture": "https:\/\/i0.wp.com\/appsterdam.rs\/wp-content\/uploads\/2021\/11\/Mike-lee-min.png?resize=600%2C600&ssl=1",
                     "function": "Mayor of Appsterdam",
