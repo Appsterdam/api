@@ -31,20 +31,6 @@
                 "longitude": "0"
             },
             {
-                "id": "307026064",
-                "organizer": "Wesley de Groot, Jake, Ruslan",
-                "date": "20251108130000:20251108160000",
-                "name": "Weekend Fun: Corpus",
-                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Corpus](https:\/\/corpusexperience.nl\/en\/)\n\nPricing: \u20ac 23,95\n\n**Schedule:**\n\u2022 We'll gather in front of **Corpus** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nWillem Einthovenstraat 1, 2342 BH Oegstgeest\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=d)\n\nWe hope to see you there!\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
-                "price": "0",
-                "location_name": "The Corpus Congress Centre",
-                "location_address": "Willem Einthovenstraat 1 2342 BH Oegstgeest, Leiden",
-                "icon": "hands.sparkles",
-                "attendees": "4",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "311670443",
                 "organizer": "Josefine Quack",
                 "date": "20251109100000:20251109180000",
@@ -54,7 +40,7 @@
                 "location_name": "Da Vinci Creatieve Ruimtes",
                 "location_address": "Nieuwpoortkade 2A, 1055 RX Amsterdam, Amsterdam",
                 "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
-                "attendees": "35",
+                "attendees": "38",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -237,6 +223,20 @@
                 "location_address": "2e Daalsedijk 6, Utrecht",
                 "icon": "hands.sparkles",
                 "attendees": "3",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            {
+                "id": "307026064",
+                "organizer": "Wesley de Groot, Jake, Ruslan",
+                "date": "20251213130000:20251213160000",
+                "name": "Weekend Fun: Corpus",
+                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Corpus](https:\/\/corpusexperience.nl\/en\/)\n\nPricing: \u20ac 23,95\n\n**Schedule:**\n\u2022 We'll gather in front of **Corpus** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nWillem Einthovenstraat 1, 2342 BH Oegstgeest\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Willem%20Einthovenstraat%201%2C%202342%20BH%20Oegstgeest&t=m&dirflg=d)\n\nWe hope to see you there!\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
+                "price": "0",
+                "location_name": "The Corpus Congress Centre",
+                "location_address": "Willem Einthovenstraat 1 2342 BH Oegstgeest, Leiden",
+                "icon": "hands.sparkles",
+                "attendees": "4",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -447,6 +447,20 @@
                 "location_address": "Ten Katestraat 119, Amsterdam",
                 "icon": "\ud83c\udf7a",
                 "attendees": "1",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            {
+                "id": "fcqfqtyjcdbkb",
+                "organizer": "D\u00e1niel Varga, Maike Warner",
+                "date": "20260207093000:20260207113000",
+                "name": "Coffee Coding",
+                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "price": "0",
+                "location_name": "The Coffee Room",
+                "location_address": "Kinkerstraat 110, Amsterdam",
+                "icon": "note.text",
+                "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
             }
