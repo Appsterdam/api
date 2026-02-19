@@ -6,8 +6,8 @@
         "JobShortDescription": "ios engineer...",
         "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
         "JobCriteria": "",
-        "JobPublishStartDate": "2026-01-14",
-        "JobPublishEndDate": "2026-01-14",
+        "JobPublishStartDate": "2026-02-19",
+        "JobPublishEndDate": "2026-02-19",
         "JobProvider": "Egeniq",
         "JobCity": "Utrecht"
     },
@@ -18,8 +18,20 @@
         "JobShortDescription": "android developer at dawn technology...",
         "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
         "JobCriteria": "",
-        "JobPublishStartDate": "2026-01-14",
-        "JobPublishEndDate": "2026-01-14",
+        "JobPublishStartDate": "2026-02-19",
+        "JobPublishEndDate": "2026-02-19",
+        "JobProvider": "Egeniq",
+        "JobCity": "Utrecht"
+    },
+    {
+        "JobID": "cf5d4a34f66dfd2e3d3285b7e4b7cbd7",
+        "JobUrl": "https:\/\/appdevcon.nl\/job\/devrel-evangelist-advocate\/",
+        "JobTitle": "devrel evangelist advocate",
+        "JobShortDescription": "devrel evangelist advocate...",
+        "JobDescription": "Please press the button to see the job description, it cannot be showed in the app right now.",
+        "JobCriteria": "",
+        "JobPublishStartDate": "2026-02-19",
+        "JobPublishEndDate": "2026-02-19",
         "JobProvider": "Egeniq",
         "JobCity": "Utrecht"
     }
