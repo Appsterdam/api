@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "313204830",
-                "organizer": "Eugene Koontz, Wesley de Groot, D\u00e1niel Varga, Maike Warner",
-                "date": "20260313083000:20260313180000",
-                "name": "Appsterdam @ AppDevCon",
-                "description": "Join Appsterdam at AppDevCon 2025. Just like previous editions, we will be on-site and have our community corner.\n\nPlease note [a separate ticket is necessary which can be purchased here](https:\/\/egeniq.paydro.com\/appdevcon-2025). Let us know if you're intending to join by RSVP-ing right here on meetup.\nWe have received a nice discount code 5% for this year's edition (**adcappsterdam26**).\n\n[More info on AppDevCon on their website](https:\/\/appdevcon.nl\/).\n\nIf you want to keep in contact with other Appsterdammers during this event, you van join our [WhatsApp Group](https:\/\/chat.whatsapp.com\/BUAxFmdaKvP41k5ovdOGC0)",
-                "price": "0",
-                "location_name": "Path\u00e9 Amsterdam Noord",
-                "location_address": "Buikslotermeerplein 2003, Amsterdam",
-                "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
-                "attendees": "7",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "fcqfqtyjcfbsb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260314093000:20260314113000",
@@ -399,6 +385,20 @@
     {
         "name": "2026",
         "events": [
+            {
+                "id": "313204830",
+                "organizer": "Eugene Koontz, Wesley de Groot, D\u00e1niel Varga, Maike Warner",
+                "date": "20260313083000:20260313180000",
+                "name": "Appsterdam @ AppDevCon",
+                "description": "Join Appsterdam at AppDevCon 2025. Just like previous editions, we will be on-site and have our community corner.\n\nPlease note [a separate ticket is necessary which can be purchased here](https:\/\/egeniq.paydro.com\/appdevcon-2025). Let us know if you're intending to join by RSVP-ing right here on meetup.\nWe have received a nice discount code 5% for this year's edition (**adcappsterdam26**).\n\n[More info on AppDevCon on their website](https:\/\/appdevcon.nl\/).\n\nIf you want to keep in contact with other Appsterdammers during this event, you van join our [WhatsApp Group](https:\/\/chat.whatsapp.com\/BUAxFmdaKvP41k5ovdOGC0)",
+                "price": "0",
+                "location_name": "Path\u00e9 Amsterdam Noord",
+                "location_address": "Buikslotermeerplein 2003, Amsterdam",
+                "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
+                "attendees": "7",
+                "latitude": "0",
+                "longitude": "0"
+            },
             {
                 "id": "312985720",
                 "organizer": "Wesley de Groot",
