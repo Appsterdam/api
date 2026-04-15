@@ -3,20 +3,6 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "312986057",
-                "organizer": "Jake",
-                "date": "20260415190000:20260415220000",
-                "name": "Weekly Meeten en Drinken",
-                "description": "",
-                "price": "0",
-                "location_name": "Cafe Bax",
-                "location_address": "Ten Katestraat 119, Amsterdam",
-                "icon": "\ud83c\udf7a",
-                "attendees": "3",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "313046449",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260418093000:20260418113000",
@@ -68,7 +54,7 @@
                 "location_name": "001 Commandantswoning | Marineterrein",
                 "location_address": "Kattenburgerstraat 5, Amsterdam",
                 "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
-                "attendees": "20",
+                "attendees": "21",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -441,6 +427,20 @@
     {
         "name": "2026",
         "events": [
+            {
+                "id": "312986057",
+                "organizer": "Jake",
+                "date": "20260415190000:20260415220000",
+                "name": "Weekly Meeten en Drinken",
+                "description": "",
+                "price": "0",
+                "location_name": "Cafe Bax",
+                "location_address": "Ten Katestraat 119, Amsterdam",
+                "icon": "\ud83c\udf7a",
+                "attendees": "3",
+                "latitude": "0",
+                "longitude": "0"
+            },
             {
                 "id": "313046446",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
