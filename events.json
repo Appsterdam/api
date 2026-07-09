@@ -171,6 +171,20 @@
                 "longitude": "0"
             },
             {
+                "id": "315610663",
+                "organizer": "Wesley de Groot, Jake",
+                "date": "20260808130000:20260808170000",
+                "name": "Weekend Fun: Naturalis",
+                "description": "What would be a better way to spend your Saturday than getting together with Appsterdammers, their friends and families to visit [Naturalis](https:\/\/www.naturalis.nl\/en)\nPricing: \u20ac 18\n\n**Schedule:**\n\u2022 We'll gather in front of **Naturalis** at 12:45 (we\u2019ll enter at 13:00)\n\n**Contact information:**\nIf you want to meet us later, get lost or for any other reason need to get in touch with one of the organizers.\n\u2022 Wesley, [Twitter](http:\/\/twitter.com\/0xWDG\/), [Bluesky](https:\/\/bsky.app\/profile\/0xwdg.bsky.social), [Mastodon](https:\/\/mastodon.social\/@0xWDG)\n\u2022 Jake, [Twitter](http:\/\/twitter.com\/jake_ruston\/)\n\u2022 [WhatsApp Group](https:\/\/appsterdam.rs\/whatsapp)\n\u2022 [Discord group](https:\/\/appsterdam.rs\/discord)\n\n**Getting there:**\nDarwinweg 2, 2333 CR Leiden\nRoute: [Bike](http:\/\/maps.apple.com\/?daddr=Darwinweg%202%2C%202333%20CR%20Leiden&t=m&dirflg=b), [Public Transport](http:\/\/maps.apple.com\/?daddr=Darwinweg%202%2C%202333%20CR%20Leiden&t=m&dirflg=r), [Car](http:\/\/maps.apple.com\/?daddr=Darwinweg%202%2C%202333%20CR%20Leiden&t=m&dirflg=d)\n\n***We hope to see you there!***\n\nMore about Weekend Fun:\nOur Weekend Fun events are family friendly, usually non-tech gatherings. We get together to have a fun day. Wether you are coming by yourself, or you're bringing your kids, parents, neighbors, colleagues, partner, friends, everyone is welcome to join! Examples of Weekend Fun events: Game Days, picnics, NEMO, walking tours through other cities, boat trips, several museums and much more.",
+                "price": "0",
+                "location_name": "Naturalis Biodiversity Center",
+                "location_address": "Darwinweg 2, Leiden",
+                "icon": "hands.sparkles",
+                "attendees": "5",
+                "latitude": "0",
+                "longitude": "0"
+            },
+            {
                 "id": "312986091",
                 "organizer": "Wesley de Groot",
                 "date": "20260812190000:20260812220000",
