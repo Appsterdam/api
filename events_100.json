@@ -3,25 +3,11 @@
         "name": "Upcoming",
         "events": [
             {
-                "id": "ppssvtyjckbpb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260711093000:20260711113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "315351021",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260711093000:20260711113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -45,25 +31,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjckbxb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260718093000:20260718113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "315451185",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260718093000:20260718113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -87,25 +59,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjckbhc",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260725093000:20260725113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "315554017",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260725093000:20260725113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -129,11 +87,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjclbcb",
+                "id": "gndhztyjclbcb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260801093000:20260801113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -157,11 +115,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjclblb",
+                "id": "gndhztyjclblb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260808093000:20260808113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -199,11 +157,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjclbtb",
+                "id": "gndhztyjclbtb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260815093000:20260815113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -227,11 +185,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjclbdc",
+                "id": "gndhztyjclbdc",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260822093000:20260822113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -255,11 +213,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjclbmc",
+                "id": "gndhztyjclbmc",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260829093000:20260829113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -283,11 +241,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcmbhb",
+                "id": "gndhztyjcmbhb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260905093000:20260905113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -311,11 +269,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcmbqb",
+                "id": "gndhztyjcmbqb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260912093000:20260912113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -339,11 +297,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcmbzb",
+                "id": "gndhztyjcmbzb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260919093000:20260919113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -367,11 +325,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcmbjc",
+                "id": "gndhztyjcmbjc",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260926093000:20260926113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -395,11 +353,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcnbfb",
+                "id": "gndhztyjcnbfb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20261003093000:20261003113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -423,11 +381,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcnbnb",
+                "id": "gndhztyjcnbnb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20261010093000:20261010113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -451,11 +409,11 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcnbwb",
+                "id": "gndhztyjcnbwb",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20261017093000:20261017113000",
                 "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
+                "description": "Whether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
                 "price": "0",
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
@@ -512,20 +470,6 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjckbgb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260704093000:20260704113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "312986079",
                 "organizer": "Wesley de Groot",
                 "date": "20260701190000:20260701220000",
@@ -568,20 +512,6 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcjbkc",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260627093000:20260627113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "312986078",
                 "organizer": "Wesley de Groot",
                 "date": "20260624190000:20260624220000",
@@ -606,20 +536,6 @@
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
                 "attendees": "3",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
-                "id": "ppssvtyjcjbbc",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260620093000:20260620113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -652,20 +568,6 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjcjbrb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260613093000:20260613113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "312986074",
                 "organizer": "Wesley de Groot",
                 "date": "20260610190000:20260610220000",
@@ -690,20 +592,6 @@
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
                 "attendees": "4",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
-                "id": "ppssvtyjcjbjb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260606093000:20260606113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -736,20 +624,6 @@
                 "longitude": "0"
             },
             {
-                "id": "ppssvtyjchbnc",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260530093000:20260530113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "312986070",
                 "organizer": "Wesley de Groot",
                 "date": "20260527190000:20260527220000",
@@ -774,20 +648,6 @@
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
                 "attendees": "4",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
-                "id": "ppssvtyjchbfc",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260523093000:20260523113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -1282,20 +1142,6 @@
                 "longitude": "0"
             },
             {
-                "id": "fcqfqtyjcdbsb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260214093000:20260214113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "312953633",
                 "organizer": "Wesley de Groot",
                 "date": "20260211190000:20260211220000",
@@ -1474,20 +1320,6 @@
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
                 "attendees": "7",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
-                "id": "fcqfqtyjccbfb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20260103093000:20260103113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
                 "latitude": "0",
                 "longitude": "0"
             }
@@ -2337,20 +2169,6 @@
                 "longitude": "0"
             },
             {
-                "id": "fcqfqtyhckbqb",
-                "organizer": "D\u00e1niel Varga, Maike Warner",
-                "date": "20250712093000:20250712113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\n\nWelcome to Appsterdam.\n\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\n\nWelcome to Appsterdam.\n\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\n\nShare and contribute. Get guidance. Feel good.\n\nAll levels are welcome, so don\u2019t be shy.\n\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\n\nMaike and Daniel are super committed to have an inspired group.\n\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\n\nJust ask and maybe we can help you with:\n\n\u2022 Android Development\n\n\u2022 iOS Development\n\n\u2022 Flutter Development\n\n\u2022 C++\n\n\u2022 JavaScript\n\n\u2022 Python\n\n\u2022 Rust\n\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma)",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "2",
-                "latitude": "0",
-                "longitude": "0"
-            },
-            {
                 "id": "306405109",
                 "organizer": "Wesley de Groot",
                 "date": "20250709190000:20250709220000",
@@ -2757,20 +2575,6 @@
                 "longitude": "0"
             },
             {
-                "id": "bcqfqtyhcgbmb",
-                "organizer": "Appsterdam",
-                "date": "20250409190000:20250409220000",
-                "name": "Weekly Meeten en Drinken",
-                "description": "Ahoy, fellow Appsterdammers!\r\n\r\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\r\n\r\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules \u2014 something many App Makers will understand!\r\n\r\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\r\n\r\nBe sure to ask the waitress\/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat\/drink. Then sit back and enjoy the company of your peers.\r\n\r\nThe day is always Wednesday. The place is always [Caf\u00e9 Bax](http:\/\/www.cafebax.nl\/). The time, for now, is 19:00.\r\n\r\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! ",
-                "price": "0",
-                "location_name": "Cafe Bax",
-                "location_address": "Ten Katestraat 119, Amsterdam",
-                "icon": "\ud83c\udf7a",
-                "attendees": "2",
-                "latitude": "52.365589141846",
-                "longitude": "4.8679780960083"
-            },
-            {
                 "id": "306749028",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20250405093000:20250405113000",
@@ -2783,20 +2587,6 @@
                 "attendees": "5",
                 "latitude": "0",
                 "longitude": "0"
-            },
-            {
-                "id": "vvlvhtyhcgbhb",
-                "organizer": "Appsterdam",
-                "date": "20250405093000:20250405113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "0",
-                "latitude": "52.367076873779",
-                "longitude": "4.8711910247803"
             },
             {
                 "id": "306404715",
@@ -2813,20 +2603,6 @@
                 "longitude": "0"
             },
             {
-                "id": "bcqfqtyhcgbdb",
-                "organizer": "Appsterdam",
-                "date": "20250402190000:20250402220000",
-                "name": "Weekly Meeten en Drinken",
-                "description": "Ahoy, fellow Appsterdammers!\r\n\r\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\r\n\r\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules \u2014 something many App Makers will understand!\r\n\r\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\r\n\r\nBe sure to ask the waitress\/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat\/drink. Then sit back and enjoy the company of your peers.\r\n\r\nThe day is always Wednesday. The place is always [Caf\u00e9 Bax](http:\/\/www.cafebax.nl\/). The time, for now, is 19:00.\r\n\r\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! ",
-                "price": "0",
-                "location_name": "Cafe Bax",
-                "location_address": "Ten Katestraat 119, Amsterdam",
-                "icon": "\ud83c\udf7a",
-                "attendees": "2",
-                "latitude": "52.365589141846",
-                "longitude": "4.8679780960083"
-            },
-            {
                 "id": "306218880",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20250329093000:20250329113000",
@@ -2841,20 +2617,6 @@
                 "longitude": "0"
             },
             {
-                "id": "vvlvhtyhcfbmc",
-                "organizer": "Appsterdam",
-                "date": "20250329093000:20250329113000",
-                "name": "Coffee Coding",
-                "description": "BACK TO COFFEE ROOM AGAIN!\r\n\r\nWelcome to Appsterdam.\r\n\r\nWhether you are a seasoned programmer or learning to code Apps, wouldn\u2019t it be cool to run by your challenge with another programmer when you get stuck? Or you have questions, or simply want to be in the environment of other like-minded friends while you work on your project?\r\n\r\nWelcome to Appsterdam.\r\n\r\nBring your laptop and get feedback, encouragement and support, no matter what level you are at.\r\n\r\nShare and contribute. Get guidance. Feel good.\r\n\r\nAll levels are welcome, so don\u2019t be shy.\r\n\r\nIn the future we plan to have break-out sessions where we will have short talks on valuable topics and also conduct mini-hackathons where all of us get to participate and learn together.\r\n\r\nMaike and Daniel are super committed to have an inspired group.\r\n\r\nWe start at 9:30 and end at 11:30 sharp, so some a bit closer to 9:30 to make sure you get the help you desire.\r\n\r\nJust ask and maybe we can help you with:\r\n\r\n\u2022 Android Development\r\n\r\n\u2022 iOS Development\r\n\r\n\u2022 Flutter Development\r\n\r\n\u2022 C++\r\n\r\n\u2022 JavaScript\r\n\r\n\u2022 Python\r\n\r\n\u2022 Rust\r\n\r\n\u2022 UX\/UI Design (Adobe XD, Balsamiq, Keynote, Sketch, Figma) ",
-                "price": "0",
-                "location_name": "The Coffee Room",
-                "location_address": "Kinkerstraat 110, Amsterdam",
-                "icon": "note.text",
-                "attendees": "3",
-                "latitude": "52.367076873779",
-                "longitude": "4.8711910247803"
-            },
-            {
                 "id": "306403547",
                 "organizer": "Wesley de Groot",
                 "date": "20250326190000:20250326220000",
@@ -2867,20 +2629,6 @@
                 "attendees": "3",
                 "latitude": "0",
                 "longitude": "0"
-            },
-            {
-                "id": "bcqfqtyhcfbjc",
-                "organizer": "Appsterdam",
-                "date": "20250326190000:20250326220000",
-                "name": "Weekly Meeten en Drinken",
-                "description": "Ahoy, fellow Appsterdammers!\r\n\r\nIf you feel like it's time to start slowly getting used to being social again, maybe you'd like to warm up with your fellow makers, nerds, and other technology enthusiasts, who might better understand your specific interests and social style.\r\n\r\nJoin us in the cozy cafe where Appsterdam was born, at an earlier than usual time, to enjoy their legendary terrace and its ongoing attempts to comply with an ever-shifting landscape of rules \u2014 something many App Makers will understand!\r\n\r\nYes, even after ten long years and a pandemic, this is still the place for you to meet your fellow Appsterdammers, get to know members of the community, meet a potential business partner, bring your app to share with others, exchange ideas with like-minded people... No talks are ever scheduled and everyone is always welcome to join.\r\n\r\nBe sure to ask the waitress\/waiter about their seasonal beers and grab a snack to share with your friends. All Appsterdammers get 10% off the entire bill, so order whatever you want to eat\/drink. Then sit back and enjoy the company of your peers.\r\n\r\nThe day is always Wednesday. The place is always [Caf\u00e9 Bax](http:\/\/www.cafebax.nl\/). The time, for now, is 19:00.\r\n\r\nPlease note: It's a very casual event so people often don't RSVP or show up exactly on time. But don't fear, you can always find Appsterdammers at this event! Not sure you're in the right place? Just ask the staff! ",
-                "price": "0",
-                "location_name": "Cafe Bax",
-                "location_address": "Ten Katestraat 119, Amsterdam",
-                "icon": "\ud83c\udf7a",
-                "attendees": "2",
-                "latitude": "52.365589141846",
-                "longitude": "4.8679780960083"
             },
             {
                 "id": "vvlvhtyhcfbdc",
