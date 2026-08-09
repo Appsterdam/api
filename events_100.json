@@ -54,7 +54,7 @@
                 "location_name": "The Coffee Room",
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
-                "attendees": 2,
+                "attendees": 4,
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -87,7 +87,7 @@
                 "longitude": "0"
             },
             {
-                "id": "gndhztyjclbmc",
+                "id": "316041009",
                 "organizer": "D\u00e1niel Varga, Maike Warner",
                 "date": "20260829093000:20260829113000",
                 "name": "Coffee Coding",
