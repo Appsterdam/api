@@ -26,7 +26,7 @@
                 "location_name": "Naturalis Biodiversity Center",
                 "location_address": "Darwinweg 2, Leiden",
                 "icon": "hands.sparkles",
-                "attendees": 8,
+                "attendees": 10,
                 "latitude": "0",
                 "longitude": "0"
             },
@@ -83,6 +83,20 @@
                 "location_address": "Kinkerstraat 110, Amsterdam",
                 "icon": "note.text",
                 "attendees": 2,
+                "latitude": "0",
+                "longitude": "0"
+            },
+            {
+                "id": "316183769",
+                "organizer": "Tom van Arman",
+                "date": "20260909120000:20260909130000",
+                "name": "\ud83e\udd6a Lunch & Launch \ud83d\ude80 ",
+                "description": "What happens when makers, sensor builders and data enthusiasts share a terrain? Tom van Arman and the Marineterrein community are about to show you. Over the last several months we have centralized live data from 12 sensors on the Marineterrein Amsterdam into two new tools: an operational dashboard for the property managers, and public infoscreens for visitors at every entrance. Together they cover sound, crowd flow, busy locations, vehicle types, and water and air temperature - a first real-time picture of livability and resilience on the Marineterrein.\n\nAt this \ud83e\udd6a**Lunch & Launch**\ud83d\ude80, you'll meet the people who built it. Five members of our sensing community will present their own sensors and discuss how the data is helping improve accessibility and resilience on the Marineterrein, today and in the future:\n\n**Ilias Jelasity** & **Emilie Taffouraud** \\- Computational Social Science Capstone Students from UvA will unveil the new public dashboard and its many features and functionalities\\.\n\n**[Michiel Bontenbal](https:\/\/www.linkedin.com\/in\/michielbontenbal\/)** - Digital Media & Creative Industry Lecturer at the HvA - demos the Urban Sound Sensor and what it reveals about livability on the terrain.\n\n**[Michael de By](https:\/\/www.linkedin.com\/in\/michaeldeby\/)** - CEO & Founder of Husense - presents privacy-proof monitoring, and how sensing can respect the people it observes.\n\n**[Martin Frissen](https:\/\/www.linkedin.com\/in\/martin-frissen\/)** - Amsterdam Sensemakers and technical advisor for HvA's HBO-ICT programme \"Studio Smart Cities\" - shares his perspective on sensemaking in the city.\n\n**[Laura Ponoran](https:\/\/www.linkedin.com\/in\/laura-ponoran\/)** - AI, Data & Smart City Research Assistant at Tapp - presents the Busyness Monitor and demos the public web app she built on top of it.\n\nExpect short, hands-on demos rather than slide decks, plenty of room for technical questions, and a chance to compare notes with others building sensing projects of their own. Whether you're a student, researcher, or fellow sensor-builder, this is your invitation to see what's under the hood - and to help shape where the Marineterrein's sensing network goes next.",
+                "price": 0,
+                "location_name": "Marineterrein Commandantswoning",
+                "location_address": "Kattenburgerstraat 5, Commandantswoning, Amsterdam",
+                "icon": "https:\/\/secure.meetupstatic.com\/photos\/event\/9\/6\/3\/4\/highres_518678452.jpeg",
+                "attendees": 5,
                 "latitude": "0",
                 "longitude": "0"
             },
